@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-e529416d-6952-4a94-9afb-9db5a621aaf4" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd">
+    <fr:meta>
+        <fr:book>kochbuch</fr:book>
+        <fr:chapter>08 Beilagen</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Malheur von roten Zwiebeln</fr:recipeName>
+    <fr:recipeKeywords>Rote Zwiebeln</fr:recipeKeywords>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>750 g</fr:igdtQuantity>
+                <fr:igdtName ref="zwiebel">rote Zwiebeln</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>50 g</fr:igdtQuantity>
+                <fr:igdtName ref="zucker">Puderzucker</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>60 g</fr:igdtQuantity>
+                <fr:igdtName ref="">Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>3 Zweige</fr:igdtQuantity>
+                <fr:igdtName ref="rosmarin">Rosmarin</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4</fr:igdtQuantity>
+                <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>200 ml</fr:igdtQuantity>
+                <fr:igdtName ref="wein">Rotwein</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+                <fr:igdtName ref="essig">Aceto Balsamico</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+                <fr:igdtName ref="">Rotweinessig</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz, Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Vorbereitung</fr:instrStepName>
+            <fr:instrStepText>Zwiebeln schälen und längs in Fächer schneiden, so daß sie am Wurzelende noch etwas zusammenhängen.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Den Puderzucker in einer Pfanne ohne Fett schmelzen. Die Butter zugeben und beides leicht karamellisieren lassen. Die Zwiebeln hineingeben und darin wenden. Rosmarin und Lorbeer zugeben. Nach und nach den Rotwein beigeben. Salzen, pfeffern und mit den beiden Essigsorten abschmecken.</fr:instrStepText>
+            <fr:instrStepText>Zudecken und bei milder Hitze ca. 15 min leise schmoren lassen. Dann den Deckel abnehmen und die Flüssigkeit etwas einkochen lassen.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

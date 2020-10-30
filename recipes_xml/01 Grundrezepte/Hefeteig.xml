@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-5d99b38e-8b78-4015-a11c-0f1e2ed7e23d" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>01 Grundrezepte</fr:chapter></fr:meta>
+    <fr:recipeName>Hefeteig</fr:recipeName>
+    <fr:recipeKeywords>Hefe,Weizenmehl</fr:recipeKeywords>
+    <fr:recipeIntro>
+        <fr:introText>Dieser Teig taucht u.a. im Rezept für die [Lauchtorte](Lauchtorte.html) auf. Und selbstverständlich wird auch eine Pizza mit Hefeteig zubereitet.</fr:introText>
+        <fr:introText>Für einen Hefeteig kann man verschiedene Mehlsorten frei kombinieren, z.B. 1050er und 550er je zur Hälfte oder: ⅔ 550er Mehl und ⅓ Vollkornmehl.</fr:introText>
+        <fr:introText>Als Faustregel für das Verhältnis von Mehl und Flüssigkeit gilt: Pro 100 g Mehl sind ca. 50 – 60 ml Flüssigkeit zu verwenden.</fr:introText>
+        <fr:introText>Die hier angegebenen Mengen reichen für eine Lauchtorte oder 3 kleinere Pizzen.</fr:introText>
+    </fr:recipeIntro>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>300 g</fr:igdtQuantity>
+                <fr:igdtName ref="weizenmehl">Weizenmehl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>10 g</fr:igdtQuantity>
+                <fr:igdtName ref="hefe">Hefe</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+                <fr:igdtName ref="">Öl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>ca. 160 ml</fr:igdtQuantity>
+                <fr:igdtName ref="">lauwarmes Wasser</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Vorbereitung</fr:instrStepName>
+            <fr:instrStepText>Mehl und Salz miteinander vermischen. Hefe zerbröseln und im lauwarmen Wasser auflösen. </fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Kneten, kneten, kneten</fr:instrStepName>
+            <fr:instrStepText>Öl und Hefewasser mit einem Löffel in das Mehl einrühren. Den Teig dann mit der Hand in der Schüssel verkneten, bis sich ein zusammenhängender Teigbatzen gebildet hat und dieser sich leicht von der Schüssel löst. Ist der Teig zu feucht, gibt man noch Mehl hinzu; ist der Teig zu fest, gibt man noch Wasser hinzu. </fr:instrStepText>
+            <fr:instrStepText>Den Teig nun aus der Schüssel herausholen und auf der Arbeitsplatte gründlich kneten, kneten, kneten. Man sollte auf die Uhr schauen: Mindestens 5 min kneten! Der Teig sollte so fest sein, dass er kaum noch in sich zusammensackt, wenn man ihn auf die Küchenplatte legt. Nur ein einigermaßen fester Teig lässt sich gut verarbeiten. </fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Gehen lassen</fr:instrStepName>
+            <fr:instrStepText>Aus dem Teig eine Kugel formen, diese leicht einmehlen, in eine Schüssel geben, mit einer Frischhaltefolie abdecken und an einen kühlen Ort stellen. Den Teig ca. 5 h gehen lassen. Der Teig sollte sein Volumen verdoppelt haben. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

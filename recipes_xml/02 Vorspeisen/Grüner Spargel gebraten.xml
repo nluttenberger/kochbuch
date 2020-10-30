@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-31fdb29b-1422-4cfc-9fa5-f7690ab131d7" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>02 Vorspeisen</fr:chapter></fr:meta>
+    <fr:recipeName>Grüner Spargel gebraten</fr:recipeName>
+    <fr:recipeKeywords>Grüner Spargel</fr:recipeKeywords>
+    <fr:recipeIntro>
+        <fr:introText>Eine kleine Köstlichkeit, die ich im Hotel Reina Victoria in Ronda kennengelernt habe.</fr:introText>
+    </fr:recipeIntro>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+                <fr:igdtName ref="spargel">grüner Spargel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+                <fr:igdtName ref="">Olivenöl</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Spargel waschen. Die holzigen Enden abschneiden. Nicht schälen.</fr:instrStepText>
+            <fr:instrStepText>Ca. 3 EL Olivenöl in einer Pfanne mäßig erhitzen. Den Spargel von allen Seiten gut anbraten. Insgesamt sollte der Spargel eine knappe Viertelstunde in der Pfanne gewesen sein.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

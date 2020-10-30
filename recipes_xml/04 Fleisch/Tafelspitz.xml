@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-a6428079-e5db-48e9-9391-0b90cafb2ee8" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd">
+    <fr:meta>
+        <fr:book>kochbuch</fr:book>
+        <fr:chapter>04 Fleisch</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Tafelspitz</fr:recipeName>
+    <fr:recipeKeywords>Rindfleisch,Kalbfleisch,Meerrettich</fr:recipeKeywords>
+    <fr:recipeIntro>
+        <fr:introText>Dieser Tafelspitz ist mindestens so lecker wie der, der im [Café Central](https://www.cafecentral.wien/) in Wien serviert wird. Und das will was heißen.</fr:introText>
+        <fr:introText>Als Gemüse paßt sehr gut eine Mischung aus Karotten, Sellerie und Petersilienwurzel dazu. Wenn man mag, kann man das Gemüse etwas verfeinern: Ca. 200 ml Fleischsud abzweigen, diesen mit ca. 100 ml Weißwein anmischen, auf ca. 150 ml reduzieren und mit etwas Butter montieren. Gemüse darin glacieren. </fr:introText>
+    </fr:recipeIntro>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName>Tafelspitz</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 kg</fr:igdtQuantity>
+                <fr:igdtName ref="rindfleisch">Tafelspitz (Rind oder Kalb)</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>500 g</fr:igdtQuantity>
+                <fr:igdtName ref="suppengemüse">Suppengemüse</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+                <fr:igdtName ref="">weiße Pfefferkörner</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+                <fr:igdtName ref="kardamom">Kardamomkapseln</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>3</fr:igdtQuantity>
+                <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="thymian">Thymian</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="rosmarin">Rosmarin</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="fenchelsamen">Fenchelsamen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="koriandersamen">Koriandersamen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="basilikum">Basilikum</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Msp.</fr:igdtQuantity>
+                <fr:igdtName ref="zimt">Zimt</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz, Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+        <fr:igdtList>
+            <fr:igdtListName>Apfelkren</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>60 g</fr:igdtQuantity>
+                <fr:igdtName ref="meerrettich">Meerrettich</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+                <fr:igdtName ref="">Sahnemeerrettich</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="apfel">säuerlicher Apfel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>150 g</fr:igdtQuantity>
+                <fr:igdtName ref="schmand">Crème fraîche</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Vorbereitung</fr:instrStepName>
+            <fr:instrStepText>Fleisch rechtzeitig aus dem Kühlschrank nehmen, es sollte vor dem Kochen auch im Inneren Zimmertemperatur angenommen haben. Vom Tafelspitz die Fettschicht __nicht__ abschneiden! </fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Tafelspitz</fr:instrStepName>
+            <fr:instrStepText>Ca. 1,5 l Wasser zum Kochen bringen, Salz hinzugeben. Das Fleisch einlegen, und die Temperatur dann bei ca. 85 – 90 °C halten. </fr:instrStepText>
+            <fr:instrStepText>Nun das Suppengemüse (Karotten, Lauch, Sellerie, Petersilienwurzel) putzen und würfeln. Die Kräuter in ein Teeei oder in ein Teesäckchen geben. </fr:instrStepText>
+            <fr:instrStepText>Nach einer Siedezeit von ca. 20 min (Kalb) bzw. 30 min (Rind) das Suppengemüse, das Kräutersäckchen, die Lorbeerblätter, die Pfefferkörner und den Zimt in den Sud zum Fleisch geben. Das Fleisch weitere 120 min bei geschlossenem Deckel leise sieden lassen. Danach kann man es in Alufolie fest einwickeln und im Backofen bei 80 °C aufbewahren.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Apfelkren</fr:instrStepName>
+            <fr:instrStepText>Den Apfel schälen und entkernen, den Meerrettich schälen, beides in grobe Stücke schneiden. Zusammen mit den restlichen Zutaten zu einer glatten Crème pürieren, am Ende mit Salz und Zitronensaft abschmecken. Achtung: Apfel und Meerrettich sollten sehr fix verarbeitet werden, da sie sonst braun werden bzw. an Geschmack verlieren.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Anrichten</fr:instrStepName>
+            <fr:instrStepText>Die Fettschicht vom Fleisch abschneiden, und dann das Fleisch quer zur Faser in 1 cm dicke Scheiben schneiden. Auf vorgewärmten Tellern zusammen mit Gemüse und Kartoffeln anrichten. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish>Zum Tafelspitz passen sowohl Rot- als auch Weißwein. Auf jeden Fall sollte man in Österreich bleiben, also einen Lagrein oder einen Grünen Veltliner wählen …</fr:recipeSideDish>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

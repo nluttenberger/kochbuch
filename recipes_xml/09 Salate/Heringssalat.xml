@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-253bf2aa-a5e7-4984-8ec6-ff1484b82760" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd">
+    <fr:meta>
+        <fr:book>kochbuch</fr:book>
+        <fr:chapter>09 Salate</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Heringssalat</fr:recipeName>
+    <fr:recipeKeywords>Hering,Apfel,Cornichons</fr:recipeKeywords>
+    <fr:recipeIntro>
+        <fr:introText>Ein hervorragendes Essen für warme Tage: Der Heringssalat schmeckt kühl am besten, und auch zusammen mit Pellkartoffeln liegt einem dieses Essen nicht schwer im Magen. </fr:introText>
+        <fr:introText>Die Basis bildet – ich gebe es ungern zu – ein Fertigprodukt, das man unter dem Namen "Matjes in Sahne" o.ä. in diversen Variationen und Supermärkten kaufen kann. Hinzu kommen weitere Matjes-Fertigprodukte. Statt der Zwiebel-Matjes-Filets kann man auch "Matjes in Öl" verwenden – das schmeckt dann etwas strenger. Aber nicht unbedingt schlechter. </fr:introText>
+    </fr:recipeIntro>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Pckg.</fr:igdtQuantity>
+                <fr:igdtName ref="matjes">Matjes in Sahne</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Pckg.</fr:igdtQuantity>
+                <fr:igdtName ref="">Zwiebel-Matjes-Filets</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="zwiebel">große Zwiebel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>ca. 10</fr:igdtQuantity>
+                <fr:igdtName ref="cornichon">Cornichons</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="apfel">Apfel (z.B. Cox, Boskop)</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>250 g</fr:igdtQuantity>
+                <fr:igdtName ref="quark">Quark 20% Fett</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Milch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>3</fr:igdtQuantity>
+                <fr:igdtName ref="">Lauchzwiebeln</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Matjes, Apfel, acht Cornichons in Stücke schneiden. Zwiebeln halbieren, vierteln und in feine Scheiben schneiden. Alles mit der Sauce aus den "Matjes in Sahne" und dem Quark vermischen und soviel von dem Cornichon-Sud angießen, bis sich die richtige Konsistenz ergibt. Ggf. noch etwas Milch hinzugeben. Nach Bedarf etwas salzen. </fr:instrStepText>
+            <fr:instrStepText>Mindestens 1 h durchziehen lassen.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Anrichten</fr:instrStepName>
+            <fr:instrStepText>Lauchzwiebeln putzen und in Röllchen schneiden. Mit den zwei übriggebliebenen Cornichons und den Lauchzwiebel-Röllchen garnieren.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish>Pellkartoffeln und ein kühles Bier oder ein Riesling</fr:recipeSideDish>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

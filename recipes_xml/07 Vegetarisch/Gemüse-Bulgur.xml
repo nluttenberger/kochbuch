@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-1fc04cd3-159f-4a71-9906-ba2c81f34e2a" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd">
+    <fr:meta>
+        <fr:book>kochbuch</fr:book>
+        <fr:chapter>07 Vegetarisch</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Gemüse-Bulgur</fr:recipeName>
+    <fr:recipeKeywords>Bulgur</fr:recipeKeywords>
+    <fr:recipeIntro>
+        <fr:introText>Einfach und lecker. Und richtig sättigend. Als vollwertiges Essen oder als Beilage. Sehr gut auch als vegetarischer Party-Eintopf.</fr:introText>
+        <fr:introText>Man kann es mit feinem, mittelgrobem oder grobem Bulgur (köftelik, midyat, pilavlik bulgur) zubereiten; am meisten schmeichelt dem Gaumen der feine Bulgur.</fr:introText>
+    </fr:recipeIntro>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>250 g</fr:igdtQuantity>
+                <fr:igdtName ref="bulgur">Bulgur</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2</fr:igdtQuantity>
+                <fr:igdtName ref="zwiebel">Zwiebeln</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2</fr:igdtQuantity>
+                <fr:igdtName ref="knoblauch">Knoblauchzehen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>5</fr:igdtQuantity>
+                <fr:igdtName ref="karotte">Karotten</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>½</fr:igdtQuantity>
+                <fr:igdtName ref="knollensellerie">Knollensellerie</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>3 Stangen</fr:igdtQuantity>
+                <fr:igdtName ref="staudensellerie">Staudensellerie</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Olivenöl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>50 ml</fr:igdtQuantity>
+                <fr:igdtName ref="wein">Weißwein</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>450 ml</fr:igdtQuantity>
+                <fr:igdtName ref="brühe">Gemüsebrühe</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="chili">rote Chilischote</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>250 g</fr:igdtQuantity>
+                <fr:igdtName ref="schafskäse">Schafskäse</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz, Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Vorbereitung</fr:instrStepName>
+            <fr:instrStepText>Zwiebeln würfeln, Knoblauch scheibeln. Karotten und Knollensellerie würfeln, Staudensellerie in kleine Stücke schneiden. Den Schafskäse zur Hälfte in dünne Scheiben schneiden, zur Hälfte zerbröckeln. Die Chilischote in klitzekleine Stücke schneiden.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Gemüse</fr:instrStepName>
+            <fr:instrStepText>Olivenöl erhitzen (nicht zu heiß!), Zwiebel farblos anbraten. Gemüse und Knoblauch hineingeben, leicht salzen und im Öl schwenken. Bei milder Hitze Wasser ziehen lassen. Im eigenen Saft garen; wenn nicht genügend Saft kommt, kann man einen Schluck Weißwein dazu geben.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Bulgur</fr:instrStepName>
+            <fr:instrStepText>Bevor das Gemüse ganz weich ist, die Chilischote, den Bulgur und den zerbröckelten Schafskäse hinzugeben und alles gut miteinander vermischen. Die Gemüsebrühe hinzugeben und kurz aufkochen. Solange weiter köcheln, bis die Brühe ganz aufgesogen ist. Den Topf für ca. ½ h ins Bett bringen.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Fertigstellung</fr:instrStepName>
+            <fr:instrStepText>Den Bulgur in eine ausgefettete Form füllen, mit den Schafskäse-Scheiben belegen und kurz grillen.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish>ein leichter Sommer-Weißwein </fr:recipeSideDish>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

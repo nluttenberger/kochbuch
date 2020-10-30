@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-096eea12-4568-4b11-8209-7808d0af8c62" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>02 Vorspeisen</fr:chapter></fr:meta>
+    <fr:recipeName>Champignons gefüllt</fr:recipeName>
+    <fr:recipeKeywords>Champignons,Frischkäse</fr:recipeKeywords>
+    <fr:recipeIntro>
+        <fr:introText>Eine sehr leckere Vorspeise!</fr:introText>
+    </fr:recipeIntro>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>8</fr:igdtQuantity>
+                <fr:igdtName ref="champignon">große Champignons</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="zwiebel">Zwiebel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+                <fr:igdtName ref="">Olivenöl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>200 g</fr:igdtQuantity>
+                <fr:igdtName ref="frischkäse">Frischkäse</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="basilikum">Basilikum</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="oregano">Oregano</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="thymian">Thymian</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="schnittlauch">Schnittlauch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz, Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Vorbereitung</fr:instrStepName>
+            <fr:instrStepText>Die Champignons gründlich waschen und die Stielenden abschneiden. Die Stiele aus dem Hut heraustrennen. Mit einem Teelöffel die Lamellen entfernen und den Pilzhut noch etwas weiter aushöhlen. Die Pilzhüte beiseite legen. Pilzstiele und -lamellen in kleine Würfel schneiden. Die Zwiebel fein würfeln.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Füllung</fr:instrStepName>
+            <fr:instrStepText>Zwiebel- und Pilzwürfel in heißem Olivenöl kurz anbraten. Auf kleiner Flamme weiterbraten. Frischkäse dazugeben und auf kleiner Flamme schmelzen. Abkühlen lassen. Die Kräuter untermischen und die Masse mit Salz, Pfeffer und Zitronensaft abschmecken.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Fertigstellung</fr:instrStepName>
+            <fr:instrStepText>Die Pilzhüte mit der Käsemasse füllen. Auf einer Grillschale unter den Grill legen, bis die Füllung leicht angebräunt ist und der Pilz weich ist.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish>grauer Burgunder oder ein schwarzer Riesling und ein Zwirbel</fr:recipeSideDish>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

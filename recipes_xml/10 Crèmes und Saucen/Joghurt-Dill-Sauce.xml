@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-aa8622ff-cdc3-4162-a3b3-6b335c1ce783" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>10 Crèmes und Saucen</fr:chapter></fr:meta>
+    <fr:recipeName>Joghurt-Dill-Sauce</fr:recipeName>
+    <fr:recipeKeywords>Dill,Joghurt,Schwarzkümmel</fr:recipeKeywords>
+    <fr:recipeIntro>
+        <fr:introText>Passt gut zu den Rezepten für [Zucchini-Puffer](Zucchini-Puffer.html) und [Auberginen gegrillt](Auberginen%20gegrillt.html). </fr:introText>
+    </fr:recipeIntro>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>400 g</fr:igdtQuantity>
+                <fr:igdtName ref="joghurt">Joghurt 3,5% Fett</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+                <fr:igdtName ref="">Olivenöl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2</fr:igdtQuantity>
+                <fr:igdtName ref="knoblauch">Knoblauchzehen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+                <fr:igdtName ref="dill">Dill</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+                <fr:igdtName ref="schwarzkümmel">Schwarzkümmel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Prise</fr:igdtQuantity>
+                <fr:igdtName ref="">Zucker</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Joghurt und Olivenöl gut miteinander verrühren. Dill hacken und mit dem Joghurt verrühren. Knoblauch hineinpressen, Schwarzkümmel hinzugeben und alles nochmals miteinander verrühren. Mit Salz und ggf. etwas Zucker abschmecken. </fr:instrStepText>
+            <fr:instrStepText>Die Sauce sollte mindestens 2 h ruhen, damit der Schwarzkümmel etwas einweichen kann. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

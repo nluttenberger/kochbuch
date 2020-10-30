@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-5d714f83-51a0-48f7-b28a-0a3cd5d2312b" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>02 Vorspeisen</fr:chapter></fr:meta>
+    <fr:recipeName>Räucherlachs-Malheur mit Limetten-Crème</fr:recipeName>
+    <fr:recipeKeywords>Räucherlachs,Limette</fr:recipeKeywords>
+    <fr:recipeIntro>
+        <fr:introText>Eine leckere Vorspeise! Dank Kresse, Kaviar und Limetten-Crème ist sie auch außerordentlich dekorativ. Auf dem Photo zeige ich sie zusammen mit Blini, die sehr gut dazu passen. Sehr gut dazu paßt aber auch ein gutes Dinkelbrot</fr:introText>
+        <fr:introText>Das "Original" zum hier angegebene Rezept kommt vom Immer-Grinser Lafer. Darin schreibt er die Verwendung von Kalahari-Salz vor. Wenn das mal keine deutsche Akkuratesse ist!</fr:introText>
+    </fr:recipeIntro>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName>Räucherlachs-Malheur</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>200 g</fr:igdtQuantity>
+                <fr:igdtName ref="räucherlachs">Räucherlachs</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2</fr:igdtQuantity>
+                <fr:igdtName ref="zwiebel">Lauchzwiebeln</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="knoblauch">Knoblauchzehe</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="limette">Bio-Limette</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+                <fr:igdtName ref="honig">Honig</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+                <fr:igdtName ref="">Olivenöl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz, Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+        <fr:igdtList>
+            <fr:igdtListName>Limetten-Crème</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>100 g</fr:igdtQuantity>
+                <fr:igdtName ref="schmand">Crème fraîche</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Limettensaft</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz, Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+        <fr:igdtList>
+            <fr:igdtListName>Deko</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4 TL</fr:igdtQuantity>
+                <fr:igdtName ref="kaviar">Kaviar</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Beet</fr:igdtQuantity>
+                <fr:igdtName ref="kresse">Gartenkresse</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Öl für den Dessert-Ring</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Lachs</fr:instrStepName>
+            <fr:instrStepText>Den Räucherlachs fein würfeln. Die Lauchzwiebeln putzen und in feine Ringe schneiden. Knoblauch schälen und fein würfeln. Limette heiß abspülen und abtrocknen. Schale fein abreiben und den Saft auspressen.</fr:instrStepText>
+            <fr:instrStepText>Lachswürfel mit den Lauchzwiebeln, der Limettenschale, der Hälfte des Limettensafts, dem Honig, dem Knoblauch und dem Olivenöl mischen. Mit Salz und Pfeffer abschmecken. Beiseite stellen.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Limetten-Crème</fr:instrStepName>
+            <fr:instrStepText>Crème fraîche mit dem restlichen Limettensaft verrühren, mit Salz und Pfeffer abschmecken.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Anrichten</fr:instrStepName>
+            <fr:instrStepText>Einen Dessert-Ring mit einem Durchmesser von 6-8 cm innen leicht einölen. Ein Viertel des Malheur hineingeben, glattstreichen und den Ring abziehen. Mit etwas Limetten- Crème bedecken und diese mit je 1 TL Kaviar und etwas Kresse garnieren.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin>[Hier](http://www.lecker.de/lachs-tatar-mit-limettencreme-johann-lafer-44667.html) geht's zum Originalrezept von Johann Lafer.</fr:recipeOrigin>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

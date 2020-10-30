@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-6defc3bd-bab2-44a0-b73f-b02a5e4e8356" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd">
+    <fr:meta>
+        <fr:book>kochbuch</fr:book>
+        <fr:chapter>01 Grundrezepte</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Mirepoix</fr:recipeName>
+    <fr:recipeKeywords>Karotten,Sellerie,Lauch</fr:recipeKeywords>
+    <fr:recipeIntro>
+        <fr:introText>Der Larousse sagt: **Ensemble de légumes (carottes, oignons, céleris) et de lard maigre détaillés que l'on fait fondre avec des aromates et que l'on ajoute à une préparation pour en corser le goût.**</fr:introText>
+        <fr:introText>Die englische Wikipedia wird da etwas präziser: **The term mirepoix dates from the 18th century and derives … from the aristocratic employer of the cook credited with establishing and stabilizing it: in this case, Charles-Pierre-Gaston François de Lévis, duc de Lévis-Mirepoix (1699–1757), French field marshal and ambassador and a member of the noble family of Lévis, lords of Mirepoix in Languedoc since the 11th century. According to Pierre Larousse (quoted in the Oxford Companion to Food), the unfortunate Duke of Mirepoix was 'an incompetent and mediocre individual … who owed his vast fortune to the affection Louis XV felt toward his wife and who had but one claim to fame: he gave his name to a sauce made of all kinds of meat and a variety of seasonings.**</fr:introText>
+        <fr:introText>Mirepoix verwende ich z.B. beim [Chili con carne](Chili con carne.html). </fr:introText>
+    </fr:recipeIntro>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="karotte">Karotten</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="knollensellerie">Knollensellerie</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="lauch">Lauch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="zwiebel">Zwiebeln</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Öl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz, Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Karotten, Sellerie, Lauch und Zwiebeln in mäßig erhitztes Öl geben, salzen und ca. 10 min anschwitzen. Mit Salz und Pfeffer abschmecken. Die Mengenangaben fehlen, da man eine beliebige Kombination der Zutaten verwenden kann. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>
