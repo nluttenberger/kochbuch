@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-df8064d8-a113-4d13-b439-25ac7015ca66" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>08 Beilagen</fr:chapter></fr:meta>
+<?xml version="1.0" encoding="UTF-8"?>
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-df8064d8-a113-4d13-b439-25ac7015ca66" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd">
+   <fr:meta>
+      <fr:book>kochbuch</fr:book>
+      <fr:chapter>08 Beilagen</fr:chapter>
+   </fr:meta>
    <fr:recipeName>08 Beilagen</fr:recipeName>
    <fr:recipeKeywords/>
    <fr:recipeIntro>
@@ -19,7 +24,7 @@
          <fr:instrStepText/>
       </fr:instruction>
    </fr:recipeInstructions>
-   <fr:recipeSideDish/>  
+   <fr:recipeSideDish/>
    <fr:recipeOrigin/>
    <fr:recipeSeeAlso/>
    <fr:recipeLicense/>

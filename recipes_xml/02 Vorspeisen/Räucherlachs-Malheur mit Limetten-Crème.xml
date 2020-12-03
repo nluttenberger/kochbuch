@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-5d714f83-51a0-48f7-b28a-0a3cd5d2312b" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>02 Vorspeisen</fr:chapter></fr:meta>
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-5d714f83-51a0-48f7-b28a-0a3cd5d2312b" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>02 Vorspeisen</fr:chapter></fr:meta>
     <fr:recipeName>Räucherlachs-Malheur mit Limetten-Crème</fr:recipeName>
     <fr:recipeKeywords>Räucherlachs,Limette</fr:recipeKeywords>
     <fr:recipeIntro>

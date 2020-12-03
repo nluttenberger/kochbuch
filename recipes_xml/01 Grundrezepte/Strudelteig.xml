@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-c5738c23-5413-4e13-a249-50b3c8ee4dfe" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>01 Grundrezepte</fr:chapter></fr:meta>
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-c5738c23-5413-4e13-a249-50b3c8ee4dfe" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>01 Grundrezepte</fr:chapter></fr:meta>
     <fr:recipeName>Strudelteig</fr:recipeName>
     <fr:recipeKeywords>Weizenmehl</fr:recipeKeywords>
     <fr:recipeIntro>

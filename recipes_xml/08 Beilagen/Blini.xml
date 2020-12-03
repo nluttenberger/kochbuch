@@ -1,2 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-f6b192dd-433f-4358-8196-4014059d56ec" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>08 Beilagen</fr:chapter></fr:meta> 
-<fr:recipeName>Blini</fr:recipeName><fr:recipeKeywords>Buchweizen</fr:recipeKeywords><fr:recipeIntro><fr:introText>Blini, die russischen Pfannkuchen, sind leckere kleine Häppchen, die sich ganz hervorragend machen als carrier für Kaviar, Lachs, saure Sahne und Rote Bete. So lecker, daß Thomas neulich einen ganzen Teller so ganz nebenbei weggeputzt hat. Ohne weitere Beilagen. Hier ein Blini-Rezept in einer wohlmöglich unangemessen verwestlichten Fassung.</fr:introText><fr:introText>Die hier angegebene Menge sollte als Vorspeisenbeilage für 4 Personen reichen. Den Blini-Teig sollte man sofort verbrauchen. Wenn man ihn über Nacht aufbewahrt, verliert er seine Triebkraft und die Blini werden sehr kompakt.</fr:introText><fr:introText>Blini kann man einen halben Tag lang aufbewahren, aber nur frisch sind sie richtig lecker.</fr:introText></fr:recipeIntro><fr:recipeIngredients><fr:igdtList><fr:igdtListName/><fr:igdtListLine><fr:igdtQuantity>100 g</fr:igdtQuantity><fr:igdtName ref="buchweizen">Buchweizenmehl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>50 g</fr:igdtQuantity><fr:igdtName ref="weizenmehl">Weizenmehl 1050</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>½ TL</fr:igdtQuantity><fr:igdtName ref="">Backpulver</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>100 ml</fr:igdtQuantity><fr:igdtName ref="kefir">Kefir</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>100 ml</fr:igdtQuantity><fr:igdtName ref="">kohlensäurehaltiges Mineralwasser</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 TL</fr:igdtQuantity><fr:igdtName ref="honig">Honig</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2</fr:igdtQuantity><fr:igdtName ref="ei">Eier</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName ref="">Olivenöl</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Buchweizenmehl und Mehl mit dem Backpulver und dem Salz mischen. Ein Ei trennen und das Eiklar aufbewahren. Das Eigelb und das ungetrennte Ei zum Mehl geben. Das Mineralwasser mit dem Kefir mischen, zu dem vorbereiteten Mehl hinzugeben und alles zu einem glatten, zähflüssigen Teig verrühren. Mit dem Honig würzen. Den Teig nun ca. 20 min quellen lassen.</fr:instrStepText><fr:instrStepText>Das Eiweiß steif schlagen und vorsichtig unter den Teig heben (nicht mit dem Rührgerät!). Olivenöl in einer Pfanne erhitzen, nicht zu heiß! Mit einem Eßlöffel oder einem Teelöffel kleine Teigmengen in die Pfanne geben und die Blini goldbraun ausbacken. Das dauert nur wenige Minuten.</fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish/><fr:recipeOrigin/><fr:recipeSeeAlso/><fr:recipeLicense/></fr:recipe>
+<?xml version="1.0" encoding="UTF-8"?>
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-f6b192dd-433f-4358-8196-4014059d56ec" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd">
+    <fr:meta>
+        <fr:book>kochbuch</fr:book>
+        <fr:chapter>08 Beilagen</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Blini</fr:recipeName>
+    <fr:recipeKeywords>Buchweizen</fr:recipeKeywords>
+    <fr:recipeIntro>
+        <fr:introText>Blini, die russischen Pfannkuchen, sind leckere kleine Häppchen, die sich ganz hervorragend machen als carrier für Kaviar, Lachs, saure Sahne und Rote Bete. So lecker, daß Thomas neulich einen ganzen Teller so ganz nebenbei weggeputzt hat. Ohne weitere Beilagen. Hier ein Blini-Rezept in einer wohlmöglich unangemessen verwestlichten Fassung.</fr:introText>
+        <fr:introText>Die hier angegebene Menge sollte als Vorspeisenbeilage für 4 Personen reichen. Den Blini-Teig sollte man sofort verbrauchen. Wenn man ihn über Nacht aufbewahrt, verliert er seine Triebkraft und die Blini werden sehr kompakt.</fr:introText>
+        <fr:introText>Blini kann man einen halben Tag lang aufbewahren, aber nur frisch sind sie richtig lecker.</fr:introText>
+    </fr:recipeIntro>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>100 g</fr:igdtQuantity>
+                <fr:igdtName ref="buchweizen">Buchweizenmehl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>50 g</fr:igdtQuantity>
+                <fr:igdtName ref="weizenmehl">Weizenmehl 1050</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+                <fr:igdtName ref="">Backpulver</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+                <fr:igdtName ref="kefir">Kefir</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+                <fr:igdtName ref="">kohlensäurehaltiges Mineralwasser</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+                <fr:igdtName ref="honig">Honig</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Eier</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Olivenöl</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Buchweizenmehl und Mehl mit dem Backpulver und dem Salz mischen. Ein Ei trennen und das Eiklar aufbewahren. Das Eigelb und das ungetrennte Ei zum Mehl geben. Das Mineralwasser mit dem Kefir mischen, zu dem vorbereiteten Mehl hinzugeben und alles zu einem glatten, zähflüssigen Teig verrühren. Mit dem Honig würzen. Den Teig nun ca. 20 min quellen lassen.</fr:instrStepText>
+            <fr:instrStepText>Das Eiweiß steif schlagen und vorsichtig unter den Teig heben (nicht mit dem Rührgerät!). Olivenöl in einer Pfanne erhitzen, nicht zu heiß! Mit einem Eßlöffel oder einem Teelöffel kleine Teigmengen in die Pfanne geben und die Blini goldbraun ausbacken. Das dauert nur wenige Minuten.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

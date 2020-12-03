@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-a6428079-e5db-48e9-9391-0b90cafb2ee8" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-a6428079-e5db-48e9-9391-0b90cafb2ee8" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd">
     <fr:meta>
         <fr:book>kochbuch</fr:book>
         <fr:chapter>04 Fleisch</fr:chapter>

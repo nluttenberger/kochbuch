@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-21d7feea-0572-4049-8b36-fea4c147bf26" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>04 Fleisch</fr:chapter></fr:meta>
+<?xml version="1.0" encoding="UTF-8"?>
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-21d7feea-0572-4049-8b36-fea4c147bf26" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd">
+   <fr:meta>
+      <fr:book>kochbuch</fr:book>
+      <fr:chapter>04 Fleisch</fr:chapter>
+   </fr:meta>
    <fr:recipeName>04 Fleisch</fr:recipeName>
    <fr:recipeKeywords/>
    <fr:recipeIntro>

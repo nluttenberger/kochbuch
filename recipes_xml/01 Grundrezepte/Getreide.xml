@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-da39fda0-f512-4200-a6fc-4715e035c731" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>01 Grundrezepte</fr:chapter></fr:meta>
+<?xml version="1.0" encoding="UTF-8"?>
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-da39fda0-f512-4200-a6fc-4715e035c731" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd">
+    <fr:meta>
+        <fr:book>kochbuch</fr:book>
+        <fr:chapter>01 Grundrezepte</fr:chapter>
+    </fr:meta>
     <fr:recipeName>Getreide</fr:recipeName>
     <fr:recipeKeywords>Buchweizen,Grünkern,Weizen,Basmati,Camargue-Reis</fr:recipeKeywords>
     <fr:recipeIntro>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-1fc04cd3-159f-4a71-9906-ba2c81f34e2a" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-1fc04cd3-159f-4a71-9906-ba2c81f34e2a" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd">
     <fr:meta>
         <fr:book>kochbuch</fr:book>
         <fr:chapter>07 Vegetarisch</fr:chapter>

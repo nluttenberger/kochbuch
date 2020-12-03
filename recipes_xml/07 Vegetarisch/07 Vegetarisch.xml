@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-f8008b07-458a-47d3-9269-b13995ab81ff" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>07 Vegetarisch</fr:chapter></fr:meta>
+<?xml version="1.0" encoding="UTF-8"?>
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-f8008b07-458a-47d3-9269-b13995ab81ff" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd">
+   <fr:meta>
+      <fr:book>kochbuch</fr:book>
+      <fr:chapter>07 Vegetarisch</fr:chapter>
+   </fr:meta>
    <fr:recipeName>07 Vegetarisch</fr:recipeName>
    <fr:recipeKeywords/>
    <fr:recipeIntro>

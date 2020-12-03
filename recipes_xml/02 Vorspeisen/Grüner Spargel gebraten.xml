@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-31fdb29b-1422-4cfc-9fa5-f7690ab131d7" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../tools/recipe.xsd      http://www.w3.org/1999/xhtml ../../tools/xhtml.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>02 Vorspeisen</fr:chapter></fr:meta>
+<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-31fdb29b-1422-4cfc-9fa5-f7690ab131d7" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>02 Vorspeisen</fr:chapter></fr:meta>
     <fr:recipeName>Grüner Spargel gebraten</fr:recipeName>
     <fr:recipeKeywords>Grüner Spargel</fr:recipeKeywords>
     <fr:recipeIntro>
