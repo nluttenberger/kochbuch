@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "../../../tools/entities.dtd">
 <fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="fr-e924a668-5273-4909-92ed-42b3e22e798f">
     <fr:meta>
         <fr:book>kochbuch</fr:book>

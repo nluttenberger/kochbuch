@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-f20a4272-23dd-4bc5-a51e-e20cdd8d8345" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>02 Vorspeisen</fr:chapter></fr:meta>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "../../../tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-f20a4272-23dd-4bc5-a51e-e20cdd8d8345" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>02 Vorspeisen</fr:chapter></fr:meta>
     <fr:recipeName>Bruschette mit Walnusspaste und Büffelmozzarella</fr:recipeName>
     <fr:recipeKeywords>Crostini,Walnuss,Kapern,Büffelmozzarella,Anchovis</fr:recipeKeywords>
     <fr:recipeIntro>
