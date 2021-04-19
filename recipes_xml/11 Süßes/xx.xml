@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="fr-ffdfaec0-672b-4260-8fe5-b02271c3aa3e">
+<fr:meta><fr:book>kochbuch</fr:book><fr:chapter>11 Süßes</fr:chapter></fr:meta><fr:recipeName>xx</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients/><fr:recipeInstructions/><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
