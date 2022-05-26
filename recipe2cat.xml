@@ -1,4 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
-<cat:assignments xmlns:cat="http://fruschtique.de/ns/recipe-cat" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe-cat ../tools/cat-assign.xsd"> 
-<cat:assignment><cat:cat>für Gäste</cat:cat><cat:recipe>01 Q1/Blumenkohl-Fenchel-Suppe mit Madras-Curry und Brezelcroutons</cat:recipe><cat:recipe>01 Q1/Chinesisch gebratene Nudeln mit Hühnchenfleisch, Ei und Gemüse</cat:recipe><cat:recipe>01 Q1/Pardulas – süße und herzhafte</cat:recipe><cat:recipe>02 Q2/Bowl 01</cat:recipe><cat:color>#587291</cat:color></cat:assignment><cat:assignment><cat:cat>für jeden Tag</cat:cat><cat:recipe>01 Q1/Blumenkohl-Fenchel-Suppe mit Madras-Curry und Brezelcroutons</cat:recipe><cat:recipe>01 Q1/Blumenkohl-Nudel-Auflauf</cat:recipe><cat:recipe>01 Q1/Bohnen mit Schafskäse</cat:recipe><cat:color>#587291</cat:color></cat:assignment><cat:assignment><cat:cat>für's Büffet</cat:cat><cat:recipe>02 Q2/Zwiebelkuchen</cat:recipe><cat:color>#587291</cat:color></cat:assignment><cat:assignment><cat:cat>für's Frühstück</cat:cat><cat:recipe>01 Q1/Rührei mit Pilzen, Paprika und Speck</cat:recipe><cat:color>#587291</cat:color></cat:assignment><cat:assignment><cat:cat>zum Sekt</cat:cat><cat:recipe>01 Q1/Peperoncini alla turca</cat:recipe><cat:color>#fe621d</cat:color></cat:assignment><cat:assignment><cat:cat>klein, aber fein</cat:cat><cat:recipe>02 Q2/Huhn in Kokos-Gemüsesauce mit Nudeln</cat:recipe><cat:color>#fe621d</cat:color></cat:assignment><cat:assignment><cat:cat>Quiches</cat:cat><cat:recipe>02 Q2/Lauchkuchen vom Blech</cat:recipe><cat:recipe>02 Q2/Quiche mit Choucroute und Würfelspeck</cat:recipe><cat:recipe>02 Q2/Spinat-Quiche</cat:recipe><cat:color>#419d78</cat:color></cat:assignment><cat:assignment><cat:cat>orientalisch u asiatisch</cat:cat><cat:recipe>01 Q1/Blumenkohl-Fenchel-Suppe mit Madras-Curry und Brezelcroutons</cat:recipe><cat:recipe>01 Q1/Gemüse-Curry</cat:recipe><cat:color>#565554</cat:color></cat:assignment><cat:assignment><cat:cat>italienisch</cat:cat><cat:recipe>01 Q1/Minestrone</cat:recipe><cat:recipe>01 Q1/Zucchini-Puffer mit Joghurt-Dill-Sauce</cat:recipe><cat:recipe>02 Q2/Ravioli in Tomatensauce</cat:recipe><cat:recipe>02 Q2/Risi Pisi</cat:recipe><cat:recipe>02 Q2/Spaghetti mit Bärlauchpesto</cat:recipe><cat:color>#565554</cat:color></cat:assignment><cat:assignment><cat:cat>deutsch</cat:cat><cat:recipe>01 Q1/Heringssalat mit Pellka</cat:recipe><cat:recipe>01 Q1/Spinat-Pfannkuchen mit Lauchgemüse</cat:recipe><cat:recipe>02 Q2/Schwarzwurzeln mit Bratkartoffeln</cat:recipe><cat:recipe>02 Q2/Schweinefilet im Blätterteig</cat:recipe><cat:color>#565554</cat:color></cat:assignment><cat:assignment><cat:cat>meine Lieblinge</cat:cat><cat:recipe>01 Q1/Bohnen mit Schafskäse</cat:recipe><cat:recipe>01 Q1/Tortilla de Chili y Culantro</cat:recipe><cat:recipe>02 Q2/Zwiebelkuchen</cat:recipe><cat:color>#a71d31</cat:color></cat:assignment></cat:assignments>
+<cat:assignments xmlns:cat="http://fruschtique.de/ns/recipe-cat" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe-cat ../tools/cat-assign.xsd">
+    <cat:assignment>
+        <cat:cat>für Gäste</cat:cat>
+        <cat:recipe></cat:recipe>
+        <cat:recipe>02 Q2/Bowl 01</cat:recipe>
+        <cat:color>#587291</cat:color>
+    </cat:assignment>
+    <cat:assignment>
+        <cat:cat>für jeden Tag</cat:cat>
+        <cat:recipe></cat:recipe>
+        <cat:color>#587291</cat:color>
+    </cat:assignment>
+    <cat:assignment>
+        <cat:cat>für's Büffet</cat:cat>
+        <cat:recipe></cat:recipe>
+        <cat:color>#587291</cat:color>
+    </cat:assignment>
+    <cat:assignment>
+        <cat:cat>für's Frühstück</cat:cat>
+        <cat:recipe></cat:recipe>
+        <cat:color>#587291</cat:color>
+    </cat:assignment>
+    <cat:assignment>
+        <cat:cat>zum Sekt</cat:cat>
+        <cat:recipe></cat:recipe>
+        <cat:color>#fe621d</cat:color>
+    </cat:assignment>
+    <cat:assignment>
+        <cat:cat>klein, aber fein</cat:cat>
+        <cat:recipe></cat:recipe>
+        <cat:color>#fe621d</cat:color>
+    </cat:assignment>
+    <cat:assignment>
+        <cat:cat>Quiches</cat:cat>
+        <cat:recipe></cat:recipe>
+        <cat:color>#419d78</cat:color>
+    </cat:assignment>
+    <cat:assignment>
+        <cat:cat>orientalisch u asiatisch</cat:cat>
+        <cat:recipe></cat:recipe>
+        <cat:color>#565554</cat:color>
+    </cat:assignment>
+    <cat:assignment>
+        <cat:cat>italienisch</cat:cat>
+        <cat:recipe></cat:recipe>
+        <cat:color>#565554</cat:color>
+    </cat:assignment>
+    <cat:assignment>
+        <cat:cat>deutsch</cat:cat>
+        <cat:recipe></cat:recipe>
+        <cat:color>#565554</cat:color>
+    </cat:assignment>
+    <cat:assignment>
+        <cat:cat>meine Lieblinge</cat:cat>
+        <cat:recipe></cat:recipe>
+        <cat:color>#a71d31</cat:color>
+    </cat:assignment>
+</cat:assignments>
