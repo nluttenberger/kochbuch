@@ -3,58 +3,58 @@
 <cat:assignments xmlns:cat="http://fruschtique.de/ns/recipe-cat" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe-cat ../tools/cat-assign.xsd">
     <cat:assignment>
         <cat:cat>für Gäste</cat:cat>
-        <cat:recipe></cat:recipe>
+        <cat:recipe/>
         <cat:recipe>02 Q2/Bowl 01</cat:recipe>
         <cat:color>#587291</cat:color>
     </cat:assignment>
     <cat:assignment>
         <cat:cat>für jeden Tag</cat:cat>
-        <cat:recipe></cat:recipe>
+        <cat:recipe/>
         <cat:color>#587291</cat:color>
     </cat:assignment>
     <cat:assignment>
         <cat:cat>für's Büffet</cat:cat>
-        <cat:recipe></cat:recipe>
+        <cat:recipe/>
         <cat:color>#587291</cat:color>
     </cat:assignment>
     <cat:assignment>
         <cat:cat>für's Frühstück</cat:cat>
-        <cat:recipe></cat:recipe>
+        <cat:recipe/>
         <cat:color>#587291</cat:color>
     </cat:assignment>
     <cat:assignment>
         <cat:cat>zum Sekt</cat:cat>
-        <cat:recipe></cat:recipe>
+        <cat:recipe/>
         <cat:color>#fe621d</cat:color>
     </cat:assignment>
     <cat:assignment>
         <cat:cat>klein, aber fein</cat:cat>
-        <cat:recipe></cat:recipe>
+        <cat:recipe/>
         <cat:color>#fe621d</cat:color>
     </cat:assignment>
     <cat:assignment>
         <cat:cat>Quiches</cat:cat>
-        <cat:recipe></cat:recipe>
+        <cat:recipe/>
         <cat:color>#419d78</cat:color>
     </cat:assignment>
     <cat:assignment>
         <cat:cat>orientalisch u asiatisch</cat:cat>
-        <cat:recipe></cat:recipe>
+        <cat:recipe/>
         <cat:color>#565554</cat:color>
     </cat:assignment>
     <cat:assignment>
         <cat:cat>italienisch</cat:cat>
-        <cat:recipe></cat:recipe>
+        <cat:recipe/>
         <cat:color>#565554</cat:color>
     </cat:assignment>
     <cat:assignment>
         <cat:cat>deutsch</cat:cat>
-        <cat:recipe></cat:recipe>
+        <cat:recipe/>
         <cat:color>#565554</cat:color>
     </cat:assignment>
     <cat:assignment>
         <cat:cat>meine Lieblinge</cat:cat>
-        <cat:recipe></cat:recipe>
+        <cat:recipe/>
         <cat:color>#a71d31</cat:color>
     </cat:assignment>
 </cat:assignments>
