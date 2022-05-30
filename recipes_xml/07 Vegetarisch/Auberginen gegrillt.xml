@@ -1,2 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-fb7c16dd-f258-4066-adb9-1e3820775fc1" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>07 Vegetarisch</fr:chapter></fr:meta> 
-<fr:recipeName>Auberginen gegrillt</fr:recipeName><fr:recipeKeywords>Auberginen</fr:recipeKeywords><fr:recipeIntro><fr:introText>Wenn Du Auberginen bislang nur als matschiges, in Öl schwimmendes Gemüse in Erinnerung hast, dann solltest Du Dich durch dieses Rezept davon belehren lassen, daß es auch anders geht.</fr:introText></fr:recipeIntro><fr:recipeIngredients><fr:igdtList><fr:igdtListName/><fr:igdtListLine><fr:igdtQuantity>3</fr:igdtQuantity><fr:igdtName ref="auberginen">Auberginen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName ref="">Olivenöl</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Vorbereitung</fr:instrStepName><fr:instrStepText>Die Auberginen waschen, Stiel und Kappe abschneiden und streifig schälen (d.h. die Aubergine soll nach dem Schälen wie ein Zebra aussehen – zumindest was das Muster betrifft.) Die Auberginen dann der Länge nach in gut 1 cm dicke Scheiben schneiden. Die Scheiben dünn mit Olivenöl einpinseln.</fr:instrStepText></fr:instruction><fr:instruction><fr:instrStepName>Grillen</fr:instrStepName><fr:instrStepText>Ein Backblech mit Backpapier belegen und die Auberginenscheiben darauflegen. Ca. 5 min von jeder Seite grillen. Die Grilldauer hängt von der Feuchtigkeit der Auberginen, von der Dicke der Scheiben und von der Nähe der Auberginen zu den Grillstäben ab. Man muß also öfter nachschauen und aufpassen, daß sie nicht verbrennen – die angegebene Grilldauer ist nur eine grobe Schätzung.</fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish>Bulgur, [Joghurt-Dill-Sauce](Joghurt-Dill-Sauce.html) und ein fulminanter Roter: La Huella de Adaras </fr:recipeSideDish><fr:recipeOrigin/><fr:recipeSeeAlso/><fr:recipeLicense/></fr:recipe>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-fb7c16dd-f258-4066-adb9-1e3820775fc1" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd">
+    <fr:meta>
+        <fr:book>kochbuch</fr:book>
+        <fr:chapter>07 Vegetarisch</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Auberginen gegrillt</fr:recipeName>
+    <fr:recipeKeywords>Auberginen</fr:recipeKeywords>
+    <fr:recipeIntro>
+        <fr:introText>Wenn Du Auberginen bislang nur als matschiges, in Öl schwimmendes Gemüse in Erinnerung hast, dann solltest Du Dich durch dieses Rezept davon belehren lassen, daß es auch anders geht.</fr:introText>
+    </fr:recipeIntro>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>3</fr:igdtQuantity>
+                <fr:igdtName ref="auberginen">Auberginen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Olivenöl</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Vorbereitung</fr:instrStepName>
+            <fr:instrStepText>Die Auberginen waschen, Stiel und Kappe abschneiden und streifig schälen (d.h. die Aubergine soll nach dem Schälen wie ein Zebra aussehen – zumindest was das Muster betrifft.) Die Auberginen dann der Länge nach in gut 1 cm dicke Scheiben schneiden. Die Scheiben dünn mit Olivenöl einpinseln.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Grillen</fr:instrStepName>
+            <fr:instrStepText>Ein Backblech mit Backpapier belegen und die Auberginenscheiben darauflegen. Ca. 5 min von jeder Seite grillen. Die Grilldauer hängt von der Feuchtigkeit der Auberginen, von der Dicke der Scheiben und von der Nähe der Auberginen zu den Grillstäben ab. Man muß also öfter nachschauen und aufpassen, daß sie nicht verbrennen – die angegebene Grilldauer ist nur eine grobe Schätzung.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish>Bulgur, [Joghurt-Dill-Sauce](recipes/10%20Crèmes%20und%20Saucen/Joghurt-Dill-Sauce.html) und ein fulminanter Roter: La Huella de Adaras </fr:recipeSideDish>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

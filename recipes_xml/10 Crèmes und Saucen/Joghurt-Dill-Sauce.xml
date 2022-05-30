@@ -7,7 +7,7 @@
     <fr:recipeName>Joghurt-Dill-Sauce</fr:recipeName>
     <fr:recipeKeywords>Dill,Joghurt,Schwarzkümmel</fr:recipeKeywords>
     <fr:recipeIntro>
-        <fr:introText>Passt gut zu den Rezepten für [Zucchini-Puffer](Zucchini-Puffer.html) und [Auberginen gegrillt](Auberginen%20gegrillt.html). </fr:introText>
+        <fr:introText>Passt gut zu den Rezepten für [Zucchini-Puffer](recipes/07%20Vegetarisch/Zucchini-Puffer.html) und [Auberginen gegrillt](recipes/07%20Vegetarisch/Auberginen%20gegrillt.html). </fr:introText>
     </fr:recipeIntro>
     <fr:recipeIngredients>
         <fr:igdtList>
