@@ -1,2 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:ht="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd      http://www.w3.org/1999/xhtml file:///c:/Users/nlutt/Documents/Websites/tools/xhtml.xsd" rcpID="fr-e9e36e9b-a42d-4330-aafa-b5c30bad56cb">
-<fr:meta><fr:book>kochbuch</fr:book><fr:chapter>09 Salate</fr:chapter></fr:meta><fr:recipeName>Scharfer Bulgursalat mit Paprika</fr:recipeName><fr:recipeKeywords>Bulgur,Paprika</fr:recipeKeywords><fr:recipeIntro><fr:introText>Die Basisversion dieses Salats hat Deryas Mutter für uns zubereitet. Ich habe diese Version etwas gepimpt und präsentiere sie nun stolz in meinem Kochbuch.</fr:introText></fr:recipeIntro><fr:recipeIngredients><fr:igdtList><fr:igdtListName></fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>200 g</fr:igdtQuantity><fr:igdtName ref="bulgur">Bulgur</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>200 ml</fr:igdtQuantity><fr:igdtName ref="brühe">Gemüsebrühe</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>200 ml</fr:igdtQuantity><fr:igdtName ref="tomate">Tomatenpassata</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Olivenöl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="paprika">rote Paprikaschote</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="zwiebel">rote Zwiebel</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="knoblauch">Knoblauchzehe</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Sonnenblumenöl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 TL</fr:igdtQuantity><fr:igdtName ref="paprikamark">**aci biber salçası**</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 gr. Bund</fr:igdtQuantity><fr:igdtName ref="minze">Minze</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Bund</fr:igdtQuantity><fr:igdtName ref="thymian">Thymian</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz, Pfeffer</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Bulgur</fr:instrStepName><fr:instrStepText>Bulgur mit etwas Olivenöl gründlich vermischen. Gemüsebrühe und Tomatenpassata miteinander vermischen und zum Kochen bringen. Über den Bulgur gießen. Kurz aufkochen lassen, dann den Topf abdecken, die Herdplatte auf niedrigste Stufe stellen und den Bulgur quellen lassen.</fr:instrStepText></fr:instruction><fr:instruction><fr:instrStepName>Paprika</fr:instrStepName><fr:instrStepText>Die Zwiebel und die Knoblauchzehe fein würfeln, den Paprika in kleine Stücke schneiden (ca. 1cm×1cm). Minze und Thymian fein hacken.</fr:instrStepText><fr:instrStepText>Den Paprika in heißem Sonnenblumenöl anbraten. Die Zwiebel und den Knoblauch hinzugeben und kurz mitbraten. Das scharfe Paprikamark und die Kräuter untermischen.</fr:instrStepText></fr:instruction><fr:instruction><fr:instrStepName>Fertigstellung</fr:instrStepName><fr:instrStepText> Bulgur und Paprika miteinander vermischen und mit Salz und Pfeffer abschmecken.</fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:ht="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd      http://www.w3.org/1999/xhtml file:///c:/Users/nlutt/Documents/Websites/tools/xhtml.xsd" rcpID="fr-e9e36e9b-a42d-4330-aafa-b5c30bad56cb">
+    <fr:meta>
+        <fr:book>kochbuch</fr:book>
+        <fr:chapter>09 Salate</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Scharfer Bulgursalat mit Paprika</fr:recipeName>
+    <fr:recipeKeywords>Bulgur,Paprika</fr:recipeKeywords>
+    <fr:recipeIntro>
+        <fr:introText>Die Basisversion dieses Salats hat Deryas Mutter für uns zubereitet. Ich habe diese Version etwas gepimpt und präsentiere sie nun stolz in meinem Kochbuch.</fr:introText>
+    </fr:recipeIntro>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>200 g</fr:igdtQuantity>
+                <fr:igdtName ref="bulgur">Bulgur</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>200 ml</fr:igdtQuantity>
+                <fr:igdtName ref="brühe">Gemüsebrühe</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>200 ml</fr:igdtQuantity>
+                <fr:igdtName ref="tomate">Tomatenpassata</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Olivenöl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="paprika">rote Paprikaschote</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="zwiebel">rote Zwiebel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="knoblauch">Knoblauchzehe</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Sonnenblumenöl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2 TL</fr:igdtQuantity>
+                <fr:igdtName ref="paprikamark">**aci biber salçası**</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 gr. Bund</fr:igdtQuantity>
+                <fr:igdtName ref="minze">Minze</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+                <fr:igdtName ref="thymian">Thymian</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz, Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Bulgur</fr:instrStepName>
+            <fr:instrStepText>Bulgur mit etwas Olivenöl gründlich vermischen. Gemüsebrühe und Tomatenpassata miteinander vermischen und zum Kochen bringen. Über den Bulgur gießen. Kurz aufkochen lassen, dann den Topf abdecken, die Herdplatte auf niedrigste Stufe stellen und den Bulgur quellen lassen.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Paprika</fr:instrStepName>
+            <fr:instrStepText>Die Zwiebel und die Knoblauchzehe fein würfeln, den Paprika in kleine Stücke schneiden (ca. 1cm×1cm). Minze und Thymian fein hacken.</fr:instrStepText>
+            <fr:instrStepText>Den Paprika in heißem Sonnenblumenöl anbraten. Die Zwiebel und den Knoblauch hinzugeben und kurz mitbraten. Das scharfe Paprikamark und die Kräuter untermischen.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Fertigstellung</fr:instrStepName>
+            <fr:instrStepText> Bulgur und Paprika miteinander vermischen und mit Salz und Pfeffer abschmecken.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>

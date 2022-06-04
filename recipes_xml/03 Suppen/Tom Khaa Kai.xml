@@ -1,2 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="fr-2617cd6a-f580-42cf-aea4-97ba8b8f09ed">
-<fr:meta><fr:book>kochbuch</fr:book><fr:chapter>03 Suppen</fr:chapter></fr:meta><fr:recipeName>Tom Khaa Kai</fr:recipeName><fr:recipeKeywords>Huhn,Kokosmilch,Zitronengras,Galgant</fr:recipeKeywords><fr:recipeIntro><fr:introText>Eine herrliche Suppe! Durch die Kokosmilch ist sie crèmig, und sie duftet nach Galgant und Zitronengras. Mit dieser Suppe haben uns Reinhard und Ute bei unserem ersten Besuch in ihrem Zuhause empfangen, Reinhard hatte sie für uns gekocht. Was für ein Glück, solche Nachbarn zu haben!</fr:introText><fr:introText>Gernot Katzer schreibt [hier](http://gernot-katzers-spice-pages.com/germ/Alpi_gal.html): "Galgant kann man frisch oder getrocknet verwenden, hat aber in diesen beiden Formen einen ganz anderen Geschmack. Frischer Galgant schmeckt rein, frisch und mild; das ist die beste Wahl für alle Arten von thailändischen Speisen. In der Thai-Küche verwendet man frischen Galgant in Form dünner Scheiben zu Suppen wie der bekannten **tom khaa** (ต้มข่า), einer Variante von **tom yam** (ต้มยำ) ... Wie der verwandte Ingwer passt auch Galgant besonders gut zu Knoblauch. Getrockneter und gemahlener Galgant schmeckt weniger frisch, aber dafür würziger, fast wie eine Mischung aus Ingwer und Zimt. ... Sowohl das Aussehen als auch der Geschmack des großen Galgants sind aber einzigartig, und er kann nicht durch andere Gewürze ersetzt werden." Und [weiter](http://gernot-katzers-spice-pages.com/germ/Citr_hys.html): "**Tom khaa** enthält mehr Galgant und schmeckt weniger sauer und scharf (als **tom yam**); sie wird durch einen guten Schuss Kokosmilch abgerundet." </fr:introText></fr:recipeIntro><fr:recipeIngredients><fr:igdtList><fr:igdtListName></fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>750 ml</fr:igdtQuantity><fr:igdtName ref="brühe">Hühnerbrühe</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>450 ml</fr:igdtQuantity><fr:igdtName ref="kokosmilch">Kokosmilch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>5 cm</fr:igdtQuantity><fr:igdtName ref="galgant">Galgant</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 Stängel</fr:igdtQuantity><fr:igdtName ref="zitronengras">Zitronengras</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>3</fr:igdtQuantity><fr:igdtName ref="kaffirlimette">Kaffirlimettenblätter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>500 g</fr:igdtQuantity><fr:igdtName ref="geflügel">Hühnerfleisch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>250 g</fr:igdtQuantity><fr:igdtName ref="champignon">Reisstrohpilze (Volvariella volvacea) (oder Champignons)</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>6</fr:igdtQuantity><fr:igdtName ref="chili">kleine rote Chilischoten</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>½ TL</fr:igdtQuantity><fr:igdtName ref="zucker">Zucker</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>4 EL</fr:igdtQuantity><fr:igdtName ref="fischsauce">Fischsauce</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>4 EL</fr:igdtQuantity><fr:igdtName ref="limette">Limettensaft</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="koriandergrün">Koriandergrün</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz, Pfeffer</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Vorbereitung</fr:instrStepName><fr:instrStepText>Die Zitronengras-Stängel mit einem Messergriff aufschlagen, damit sie ihr Aroma besser abgeben können. Chilis zerdrücken. Die Kaffirlimettenblätter der Länge nach halbieren und die Blattrippe entfernen. Pilze putzen und in Stücke schneiden. Hühnerfleisch in mundgerechte Stücke schneiden. </fr:instrStepText></fr:instruction><fr:instruction><fr:instrStepName>Suppe</fr:instrStepName><fr:instrStepText>Hühnerbrühe und Kokosmilch in einen Topf geben und verrühren. Bei mittlerer Hitze zum Kochen bringen. Galgant, Zitronengras und Kaffirlimettenblätter in die Brühe geben und die Suppe ca. 5 min simmern lassen.</fr:instrStepText><fr:instrStepText>Galgant, Zitronengras und Kaffirlimettenblätter mit einer Schaumkelle aus der Brühe herausholen und entsorgen. Nun kommen Huhn, Pilze, Limettensaft, Fischsauce und Zucker hinzu. 10 min leise kochen lassen.</fr:instrStepText></fr:instruction><fr:instruction><fr:instrStepName>Servieren</fr:instrStepName><fr:instrStepText>Die Suppe in Teller füllen und mit Koriandergrün garnieren. Fertig!</fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish>Basmati-Reis oder Brot</fr:recipeSideDish><fr:recipeOrigin>Reinhard und Ute</fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="fr-2617cd6a-f580-42cf-aea4-97ba8b8f09ed">
+    <fr:meta>
+        <fr:book>kochbuch</fr:book>
+        <fr:chapter>03 Suppen</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Tom Khaa Kai</fr:recipeName>
+    <fr:recipeKeywords>Huhn,Kokosmilch,Zitronengras,Galgant</fr:recipeKeywords>
+    <fr:recipeIntro>
+        <fr:introText>Eine herrliche Suppe! Durch die Kokosmilch ist sie crèmig, und sie duftet nach Galgant und Zitronengras. Mit dieser Suppe haben uns Reinhard und Ute bei unserem ersten Besuch in ihrem Zuhause empfangen, Reinhard hatte sie für uns gekocht. Was für ein Glück, solche Nachbarn zu haben!</fr:introText>
+        <fr:introText>Gernot Katzer schreibt [hier](http://gernot-katzers-spice-pages.com/germ/Alpi_gal.html): "Galgant kann man frisch oder getrocknet verwenden, hat aber in diesen beiden Formen einen ganz anderen Geschmack. Frischer Galgant schmeckt rein, frisch und mild; das ist die beste Wahl für alle Arten von thailändischen Speisen. In der Thai-Küche verwendet man frischen Galgant in Form dünner Scheiben zu Suppen wie der bekannten **tom khaa** (ต้มข่า), einer Variante von **tom yam** (ต้มยำ) ... Wie der verwandte Ingwer passt auch Galgant besonders gut zu Knoblauch. Getrockneter und gemahlener Galgant schmeckt weniger frisch, aber dafür würziger, fast wie eine Mischung aus Ingwer und Zimt. ... Sowohl das Aussehen als auch der Geschmack des großen Galgants sind aber einzigartig, und er kann nicht durch andere Gewürze ersetzt werden." Und [weiter](http://gernot-katzers-spice-pages.com/germ/Citr_hys.html): "**Tom khaa** enthält mehr Galgant und schmeckt weniger sauer und scharf (als **tom yam**); sie wird durch einen guten Schuss Kokosmilch abgerundet." </fr:introText>
+    </fr:recipeIntro>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>750 ml</fr:igdtQuantity>
+                <fr:igdtName ref="brühe">Hühnerbrühe</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>450 ml</fr:igdtQuantity>
+                <fr:igdtName ref="kokosmilch">Kokosmilch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>5 cm</fr:igdtQuantity>
+                <fr:igdtName ref="galgant">Galgant</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2 Stängel</fr:igdtQuantity>
+                <fr:igdtName ref="zitronengras">Zitronengras</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>3</fr:igdtQuantity>
+                <fr:igdtName ref="kaffirlimette">Kaffirlimettenblätter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>500 g</fr:igdtQuantity>
+                <fr:igdtName ref="geflügel">Hühnerfleisch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>250 g</fr:igdtQuantity>
+                <fr:igdtName ref="champignon">Reisstrohpilze (Volvariella volvacea) (oder Champignons)</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>6</fr:igdtQuantity>
+                <fr:igdtName ref="chili">kleine rote Chilischoten</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+                <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4 EL</fr:igdtQuantity>
+                <fr:igdtName ref="fischsauce">Fischsauce</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4 EL</fr:igdtQuantity>
+                <fr:igdtName ref="limette">Limettensaft</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="koriandergrün">Koriandergrün</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz, Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Vorbereitung</fr:instrStepName>
+            <fr:instrStepText>Die Zitronengras-Stängel mit einem Messergriff aufschlagen, damit sie ihr Aroma besser abgeben können. Chilis zerdrücken. Die Kaffirlimettenblätter der Länge nach halbieren und die Blattrippe entfernen. Pilze putzen und in Stücke schneiden. Hühnerfleisch in mundgerechte Stücke schneiden. </fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Suppe</fr:instrStepName>
+            <fr:instrStepText>Hühnerbrühe und Kokosmilch in einen Topf geben und verrühren. Bei mittlerer Hitze zum Kochen bringen. Galgant, Zitronengras und Kaffirlimettenblätter in die Brühe geben und die Suppe ca. 5 min simmern lassen.</fr:instrStepText>
+            <fr:instrStepText>Galgant, Zitronengras und Kaffirlimettenblätter mit einer Schaumkelle aus der Brühe herausholen und entsorgen. Nun kommen Huhn, Pilze, Limettensaft, Fischsauce und Zucker hinzu. 10 min leise kochen lassen.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Servieren</fr:instrStepName>
+            <fr:instrStepText>Die Suppe in Teller füllen und mit Koriandergrün garnieren. Fertig!</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish>Basmati-Reis oder Brot</fr:recipeSideDish>
+    <fr:recipeOrigin>Reinhard und Ute</fr:recipeOrigin>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>
