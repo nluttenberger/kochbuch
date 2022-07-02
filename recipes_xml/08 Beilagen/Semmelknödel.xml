@@ -1,2 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-306ab4c3-db78-4bfc-bf24-474de987521f" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd"><fr:meta><fr:book>kochbuch</fr:book><fr:chapter>08 Beilagen</fr:chapter></fr:meta> 
-<fr:recipeName>Semmelknödel</fr:recipeName><fr:recipeKeywords>Laugenstangen</fr:recipeKeywords><fr:recipeIntro><fr:introText>Eine sehr leckere Beilage für viele Gerichte! Besonders gut schmecken die Knödel auch, wenn man sie kurz in Butter anbrät.</fr:introText><fr:introText>Den Käse kann man weglassen, wenn er zum Rest nicht passt.</fr:introText><fr:introText>Man kann Semmelknödel gut einfrieren. Um sie wieder zum Leben zu erwecken, werden die gefrorenen Knödel in siedendem Salzwasser aufgewärmt. </fr:introText></fr:recipeIntro><fr:recipeIngredients><fr:igdtList><fr:igdtListName/><fr:igdtListLine><fr:igdtQuantity>6</fr:igdtQuantity><fr:igdtName ref="laugengebäck">Laugenstangen vom Vortag</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="zwiebel">Zwiebel</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="knoblauch">Knoblauchzehe</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 EL</fr:igdtQuantity><fr:igdtName ref="petersilie">gehackte Petersilie</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>¼ l</fr:igdtQuantity><fr:igdtName ref="milch">Milch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>3</fr:igdtQuantity><fr:igdtName ref="ei">Eier</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>80 g</fr:igdtQuantity><fr:igdtName ref="bergkäse">Bergkäse</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 TL</fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName ref="muskat">Muskat</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>etwas</fr:igdtQuantity><fr:igdtName ref="">Butter zum Andünsten</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName ref="">Semmelbrösel</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName ref="">Klarsichtfolie (PE-Folie)</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName ref="">Alufolie</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Vorbereitung</fr:instrStepName><fr:instrStepText>Die Laugenstangen in Würfel schneiden. Zwiebel fein würfeln; Knoblauch fein scheibeln. Petersilie fein hacken.</fr:instrStepText></fr:instruction><fr:instruction><fr:instrStepName>Teig</fr:instrStepName><fr:instrStepText>Zwiebel und Knoblauch in Butter glasig dünsten. Die Petersilie untermischen und die Milch angießen. Einmal kurz aufkochen lassen.</fr:instrStepText><fr:instrStepText>Die Brotwürfel mit der heißen Milch übergießen. Die Eier und die Käsewürfel hinzugeben. Mit Salz und Muskat würzen und alles gut miteinander vermischen. Den Knödelteig ca. 30 min lang quellen lassen.</fr:instrStepText><fr:instrStepText>Der Teig sollte nun eine feste Konsistenz haben, ansonsten noch Semmelbrösel zugeben.</fr:instrStepText></fr:instruction><fr:instruction><fr:instrStepName>Knödel</fr:instrStepName><fr:instrStepText>Zwei Stücke Klarsichtfolie und zwei Stücke Alufolie so zurechtschneiden, daß sich je eine Rolle von ca. 25 cm Länge darin einrollen läßt.</fr:instrStepText><fr:instrStepText>Den Knödelteig in Form einer Rolle auf die Klarsichtfolie geben, so daß an den kurzen Seiten noch ein Rand bleibt. Die Folie von den beiden kurzen Seiten her einschlagen und den Knödelteig fest in die Folie einrollen und gut verschließen. Diese Rolle dann fest in eine Alufolie einschlagen.</fr:instrStepText><fr:instrStepText>Die beiden Rollen im Dämpfer bei ca. 90 °C ca. 25 min dämpfen.</fr:instrStepText><fr:instrStepText>Aus den Folien wickeln und in dicke Scheiben schneiden.</fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish/><fr:recipeOrigin/><fr:recipeSeeAlso/><fr:recipeLicense/></fr:recipe>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-306ab4c3-db78-4bfc-bf24-474de987521f" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd">
+    <fr:meta>
+        <fr:book>kochbuch</fr:book>
+        <fr:chapter>08 Beilagen</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Semmelknödel</fr:recipeName>
+    <fr:recipeKeywords>Laugenstangen</fr:recipeKeywords>
+    <fr:recipeIntro>
+        <fr:introText>Eine sehr leckere Beilage für viele Gerichte! Besonders gut schmecken die Knödel auch, wenn man sie kurz in Butter anbrät.</fr:introText>
+        <fr:introText>Den Käse kann man weglassen, wenn er zum Rest nicht passt.</fr:introText>
+        <fr:introText>Man kann Semmelknödel gut einfrieren. Um sie wieder zum Leben zu erwecken, werden die gefrorenen Knödel in siedendem Salzwasser aufgewärmt. </fr:introText>
+    </fr:recipeIntro>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>6</fr:igdtQuantity>
+                <fr:igdtName ref="laugengebäck">Laugenstangen vom Vortag</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="zwiebel">Zwiebel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="knoblauch">Knoblauchzehe</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+                <fr:igdtName ref="petersilie">gehackte Petersilie</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>¼ l</fr:igdtQuantity>
+                <fr:igdtName ref="milch">Milch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>3</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Eier</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>80 g</fr:igdtQuantity>
+                <fr:igdtName ref="bergkäse">Bergkäse</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+                <fr:igdtName ref="">Salz</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>etwas</fr:igdtQuantity>
+                <fr:igdtName ref="">Butter zum Andünsten</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Semmelbrösel</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Klarsichtfolie (PE-Folie)</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Alufolie</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Vorbereitung</fr:instrStepName>
+            <fr:instrStepText>Die Laugenstangen in Würfel schneiden. Zwiebel fein würfeln; Knoblauch fein scheibeln. Petersilie fein hacken.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Teig</fr:instrStepName>
+            <fr:instrStepText>Zwiebel und Knoblauch in Butter glasig dünsten. Die Petersilie untermischen und die Milch angießen. Einmal kurz aufkochen lassen.</fr:instrStepText>
+            <fr:instrStepText>Die Brotwürfel mit der heißen Milch übergießen. Die Eier und die Käsewürfel hinzugeben. Mit Salz und Muskat würzen und alles gut miteinander vermischen. Den Knödelteig ca. 30 min lang quellen lassen.</fr:instrStepText>
+            <fr:instrStepText>Der Teig sollte nun eine feste Konsistenz haben, ansonsten noch Semmelbrösel zugeben.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Knödel</fr:instrStepName>
+            <fr:instrStepText>Zwei Stücke Klarsichtfolie und zwei Stücke Alufolie so zurechtschneiden, daß sich je eine Rolle von ca. 25 cm Länge darin einrollen läßt.</fr:instrStepText>
+            <fr:instrStepText>Den Knödelteig in Form einer Rolle auf die Klarsichtfolie geben, so daß an den kurzen Seiten noch ein Rand bleibt. Die Folie von den beiden kurzen Seiten her einschlagen und den Knödelteig fest in die Folie einrollen und gut verschließen. Diese Rolle dann fest in eine Alufolie einschlagen.</fr:instrStepText>
+            <fr:instrStepText>Die beiden Rollen im Dämpfer bei ca. 90 °C ca. 25 min dämpfen.</fr:instrStepText>
+            <fr:instrStepText>Aus den Folien wickeln und in dicke Scheiben schneiden.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>
