@@ -19,7 +19,7 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 Pckg.</fr:igdtQuantity>
-                <fr:igdtName ref="">Zwiebel-Matjes-Filets</fr:igdtName>
+                <fr:igdtName ref="matjes">Zwiebel-Matjes-Filets</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -39,11 +39,11 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="">Milch</fr:igdtName>
+                <fr:igdtName ref="milch">Milch</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>3</fr:igdtQuantity>
-                <fr:igdtName ref="">Lauchzwiebeln</fr:igdtName>
+                <fr:igdtName ref="lauchzwiebel">Lauchzwiebeln</fr:igdtName>
             </fr:igdtListLine>
         </fr:igdtList>
     </fr:recipeIngredients>
