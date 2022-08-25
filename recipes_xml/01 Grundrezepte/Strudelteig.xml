@@ -1,46 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
 <fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="fr-c5738c23-5413-4e13-a249-50b3c8ee4dfe">
-    <fr:meta>
-        <fr:book>kochbuch</fr:book>
-        <fr:chapter>01 Grundrezepte</fr:chapter>
-    </fr:meta>
-    <fr:recipeName>Strudelteig</fr:recipeName>
-    <fr:recipeKeywords>Weizenmehl</fr:recipeKeywords>
-    <fr:recipeIntro>
-        <fr:introText>Für einen Strudelteig kann man verschiedene feine Mehlsorten frei kombinieren, z.B. 1050er und 550er je zur Hälfte. </fr:introText>
-        <fr:introText>Die eigentliche Schwierigkeit bei der Zubereitung: Der Strudelteig muss so fest und gleichzeitig so elastisch sein, dass er sich – ohne einzureißen – so dünn ausrollen bzw. über der Hand ausziehen läßt, dass man das Muster eines Geschirrtuchs durch den Teig hindurch erkennen kann. Ich gebe ich hier Zutatenmengen an, die für ein Geschirrhandtuch reichen. </fr:introText>
-        <fr:introText>Ich verwende dieses Rezept u.a. beim [Apfelstrudel](recipes/11%20Süßes/Apfelstrudel.html). </fr:introText>
-    </fr:recipeIntro>
-    <fr:recipeIngredients>
-        <fr:igdtList>
-            <fr:igdtListName/>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>150 g</fr:igdtQuantity>
-                <fr:igdtName ref="">Weizenmehl</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity/>
-                <fr:igdtName ref="">Salz</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-                <fr:igdtName ref="">Öl</fr:igdtName>
-            </fr:igdtListLine>
-            <fr:igdtListLine>
-                <fr:igdtQuantity>90 ml</fr:igdtQuantity>
-                <fr:igdtName ref="">Wasser</fr:igdtName>
-            </fr:igdtListLine>
-        </fr:igdtList>
-    </fr:recipeIngredients>
-    <fr:recipeInstructions>
-        <fr:instruction>
-            <fr:instrStepName>Zubereitung</fr:instrStepName>
-            <fr:instrStepText>Mehl und Salz miteinander vermischen. Wasser und Öl hinzugeben und die Mischung mit dem elektrischen Knethaken bearbeiten. Wenn sich ein zusammenhängender geschmeidiger Teigbatzen gebildet hat, und wenn sich dieser Teigbatzen von der Schüssel löst, den elektrischen Knethaken beiseite legen und den Teig mit der Hand noch ca. 5 min kneten. </fr:instrStepText>
-            <fr:instrStepText>Den Teig mit einer Folie bedecken und mindestens für ½ h ruhen lassen. </fr:instrStepText>
-        </fr:instruction>
-    </fr:recipeInstructions>
-    <fr:recipeSideDish/>
-    <fr:recipeOrigin/>
-    <fr:recipeSeeAlso/>
-    <fr:recipeLicense/>
-</fr:recipe>
+<fr:meta><fr:book>kochbuch</fr:book><fr:chapter>01 Grundrezepte</fr:chapter></fr:meta><fr:recipeName>Strudelteig</fr:recipeName><fr:recipeKeywords>Weizenmehl</fr:recipeKeywords><fr:recipeIntro><fr:introText>Für einen Strudelteig kann man verschiedene feine Mehlsorten frei kombinieren, z.B. 1050er und 550er je zur Hälfte. </fr:introText><fr:introText>Die eigentliche Schwierigkeit bei der Zubereitung: Der Strudelteig muss so fest und gleichzeitig so elastisch sein, dass er sich – ohne einzureißen – so dünn ausrollen bzw. über der Hand ausziehen läßt, dass man das Muster eines Geschirrtuchs durch den Teig hindurch erkennen kann. Ich gebe ich hier Zutatenmengen an, die für ein Geschirrhandtuch reichen. </fr:introText><fr:introText>Ich verwende dieses Rezept u.a. beim [Apfelstrudel](recipes/11%20Süßes/Apfelstrudel.html). </fr:introText></fr:recipeIntro><fr:recipeIngredients><fr:igdtList><fr:igdtListName></fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>150 g</fr:igdtQuantity><fr:igdtName ref="weizenmehl">Weizenmehl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 EL</fr:igdtQuantity><fr:igdtName ref="öl">Öl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>90 ml</fr:igdtQuantity><fr:igdtName ref="">Wasser</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Mehl und Salz miteinander vermischen. Wasser und Öl hinzugeben und die Mischung mit dem elektrischen Knethaken bearbeiten. Wenn sich ein zusammenhängender geschmeidiger Teigbatzen gebildet hat, und wenn sich dieser Teigbatzen von der Schüssel löst, den elektrischen Knethaken beiseite legen und den Teig mit der Hand noch ca. 5 min kneten. </fr:instrStepText><fr:instrStepText>Den Teig mit einer Folie bedecken und mindestens für ½ h ruhen lassen. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
