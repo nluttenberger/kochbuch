@@ -12,15 +12,15 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>50 g</fr:igdtQuantity>
-                <fr:igdtName ref="mohn">gemahlener Blaumohn</fr:igdtName>
+                <fr:igdtName ref="">gemahlener Blaumohn</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>100 g</fr:igdtQuantity>
-                <fr:igdtName ref="butter">Butter</fr:igdtName>
+                <fr:igdtName ref="">Butter</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-                <fr:igdtName ref="brühe">Geflügelfond</fr:igdtName>
+                <fr:igdtName ref="">Geflügelfond</fr:igdtName>
             </fr:igdtListLine>
         </fr:igdtList>
     </fr:recipeIngredients>

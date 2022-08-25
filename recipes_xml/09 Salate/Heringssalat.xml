@@ -15,35 +15,35 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 Pckg.</fr:igdtQuantity>
-                <fr:igdtName ref="matjes">Matjes in Sahne</fr:igdtName>
+                <fr:igdtName ref="">Matjes in Sahne</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 Pckg.</fr:igdtQuantity>
-                <fr:igdtName ref="matjes">Zwiebel-Matjes-Filets</fr:igdtName>
+                <fr:igdtName ref="">Zwiebel-Matjes-Filets</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="zwiebel">große Zwiebel</fr:igdtName>
+                <fr:igdtName ref="">große Zwiebel</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>ca. 10</fr:igdtQuantity>
-                <fr:igdtName ref="cornichon">Cornichons</fr:igdtName>
+                <fr:igdtName ref="">Cornichons</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="apfel">Apfel (z.B. Cox, Boskop)</fr:igdtName>
+                <fr:igdtName ref="">Apfel (z.B. Cox, Boskop)</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>250 g</fr:igdtQuantity>
-                <fr:igdtName ref="quark">Quark 20% Fett</fr:igdtName>
+                <fr:igdtName ref="">Quark 20% Fett</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="milch">Milch</fr:igdtName>
+                <fr:igdtName ref="">Milch</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>3</fr:igdtQuantity>
-                <fr:igdtName ref="lauchzwiebel">Lauchzwiebeln</fr:igdtName>
+                <fr:igdtName ref="">Lauchzwiebeln</fr:igdtName>
             </fr:igdtListLine>
         </fr:igdtList>
     </fr:recipeIngredients>

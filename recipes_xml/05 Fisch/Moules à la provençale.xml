@@ -17,31 +17,31 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>3 kg</fr:igdtQuantity>
-                <fr:igdtName ref="muscheln">Miesmuscheln</fr:igdtName>
+                <fr:igdtName ref="">Miesmuscheln</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 Stange</fr:igdtQuantity>
-                <fr:igdtName ref="lauch">Lauch</fr:igdtName>
+                <fr:igdtName ref="">Lauch</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>4</fr:igdtQuantity>
-                <fr:igdtName ref="karotte">Karotten</fr:igdtName>
+                <fr:igdtName ref="">Karotten</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>¼</fr:igdtQuantity>
-                <fr:igdtName ref="knollensellerie">Sellerieknolle</fr:igdtName>
+                <fr:igdtName ref="">Sellerieknolle</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2 Stangen</fr:igdtQuantity>
-                <fr:igdtName ref="staudensellerie">Staudensellerie</fr:igdtName>
+                <fr:igdtName ref="">Staudensellerie</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>3</fr:igdtQuantity>
-                <fr:igdtName ref="zwiebel">Zwiebeln</fr:igdtName>
+                <fr:igdtName ref="">Zwiebeln</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>5</fr:igdtQuantity>
-                <fr:igdtName ref="knoblauch">Knoblauchzehen</fr:igdtName>
+                <fr:igdtName ref="">Knoblauchzehen</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>100 ml</fr:igdtQuantity>
@@ -49,23 +49,23 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2</fr:igdtQuantity>
-                <fr:igdtName ref="chili">rote Chilischoten</fr:igdtName>
+                <fr:igdtName ref="">rote Chilischoten</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="rosmarin">Zweig Rosmarin</fr:igdtName>
+                <fr:igdtName ref="">Zweig Rosmarin</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-                <fr:igdtName ref="thymian">Thymian</fr:igdtName>
+                <fr:igdtName ref="">Thymian</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>6</fr:igdtQuantity>
-                <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
+                <fr:igdtName ref="">Lorbeerblätter</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2 gr. Dosen</fr:igdtQuantity>
-                <fr:igdtName ref="tomate">geschälte Tomaten</fr:igdtName>
+                <fr:igdtName ref="">geschälte Tomaten</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -73,7 +73,7 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 l</fr:igdtQuantity>
-                <fr:igdtName ref="wein">trockener Weißwein</fr:igdtName>
+                <fr:igdtName ref="">trockener Weißwein</fr:igdtName>
             </fr:igdtListLine>
         </fr:igdtList>
     </fr:recipeIngredients>

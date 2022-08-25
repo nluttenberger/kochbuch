@@ -16,35 +16,35 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>3</fr:igdtQuantity>
-                <fr:igdtName ref="rote_bete">Rote Bete (ca. 250 g)</fr:igdtName>
+                <fr:igdtName ref="">Rote Bete (ca. 250 g)</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 Stange</fr:igdtQuantity>
-                <fr:igdtName ref="staudensellerie">Staudensellerie</fr:igdtName>
+                <fr:igdtName ref="">Staudensellerie</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="karotte">mittelgroße Karotte</fr:igdtName>
+                <fr:igdtName ref="">mittelgroße Karotte</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="petersilienwurzel">Petersilienwurzel</fr:igdtName>
+                <fr:igdtName ref="">Petersilienwurzel</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 Stange</fr:igdtQuantity>
-                <fr:igdtName ref="lauch">Lauch</fr:igdtName>
+                <fr:igdtName ref="">Lauch</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 l</fr:igdtQuantity>
-                <fr:igdtName ref="brühe">Fleischbrühe</fr:igdtName>
+                <fr:igdtName ref="">Fleischbrühe</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2</fr:igdtQuantity>
-                <fr:igdtName ref="knoblauch">Knoblauchzehen</fr:igdtName>
+                <fr:igdtName ref="">Knoblauchzehen</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="butter">Butter</fr:igdtName>
+                <fr:igdtName ref="">Butter</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -52,7 +52,7 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="saure_sahne">saure Sahne</fr:igdtName>
+                <fr:igdtName ref="">saure Sahne</fr:igdtName>
             </fr:igdtListLine>
         </fr:igdtList>
     </fr:recipeIngredients>

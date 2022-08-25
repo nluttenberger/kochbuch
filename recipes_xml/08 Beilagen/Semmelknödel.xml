@@ -16,31 +16,31 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>6</fr:igdtQuantity>
-                <fr:igdtName ref="laugengebäck">Laugenstangen vom Vortag</fr:igdtName>
+                <fr:igdtName ref="">Laugenstangen vom Vortag</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="zwiebel">Zwiebel</fr:igdtName>
+                <fr:igdtName ref="">Zwiebel</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="knoblauch">Knoblauchzehe</fr:igdtName>
+                <fr:igdtName ref="">Knoblauchzehe</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-                <fr:igdtName ref="petersilie">gehackte Petersilie</fr:igdtName>
+                <fr:igdtName ref="">gehackte Petersilie</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>¼ l</fr:igdtQuantity>
-                <fr:igdtName ref="milch">Milch</fr:igdtName>
+                <fr:igdtName ref="">Milch</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>3</fr:igdtQuantity>
-                <fr:igdtName ref="ei">Eier</fr:igdtName>
+                <fr:igdtName ref="">Eier</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>80 g</fr:igdtQuantity>
-                <fr:igdtName ref="bergkäse">Bergkäse</fr:igdtName>
+                <fr:igdtName ref="">Bergkäse</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -48,7 +48,7 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+                <fr:igdtName ref="">Muskat</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>etwas</fr:igdtQuantity>

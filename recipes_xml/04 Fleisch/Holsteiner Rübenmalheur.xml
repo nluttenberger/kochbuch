@@ -16,43 +16,43 @@
             <fr:igdtListName>Rübenmus</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="steckrübe">große Steckrübe</fr:igdtName>
+                <fr:igdtName ref="">große Steckrübe</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2</fr:igdtQuantity>
-                <fr:igdtName ref="zwiebel">Zwiebeln</fr:igdtName>
+                <fr:igdtName ref="">Zwiebeln</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>3</fr:igdtQuantity>
-                <fr:igdtName ref="karotte">große Karotten</fr:igdtName>
+                <fr:igdtName ref="">große Karotten</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>5</fr:igdtQuantity>
-                <fr:igdtName ref="kartoffel">große Kartoffeln</fr:igdtName>
+                <fr:igdtName ref="">große Kartoffeln</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-                <fr:igdtName ref="butterschmalz">Schmalz</fr:igdtName>
+                <fr:igdtName ref="">Schmalz</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>¾ l</fr:igdtQuantity>
-                <fr:igdtName ref="brühe">Gemüsebrühe (ggf. mehr)</fr:igdtName>
+                <fr:igdtName ref="">Gemüsebrühe (ggf. mehr)</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
+                <fr:igdtName ref="">Lorbeerblätter</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+                <fr:igdtName ref="">Muskat</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="senf">Senf</fr:igdtName>
+                <fr:igdtName ref="">Senf</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-                <fr:igdtName ref="schmand">Schmand</fr:igdtName>
+                <fr:igdtName ref="">Schmand</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -63,7 +63,7 @@
             <fr:igdtListName>Fleisch</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>200 g</fr:igdtQuantity>
-                <fr:igdtName ref="speck">Speckwürfel</fr:igdtName>
+                <fr:igdtName ref="">Speckwürfel</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2</fr:igdtQuantity>

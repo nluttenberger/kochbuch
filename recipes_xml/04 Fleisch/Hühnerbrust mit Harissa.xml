@@ -14,19 +14,19 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>4</fr:igdtQuantity>
-                <fr:igdtName ref="geflügel">Hühnerbrüste</fr:igdtName>
+                <fr:igdtName ref="">Hühnerbrüste</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-                <fr:igdtName ref="harissa">Harissa</fr:igdtName>
+                <fr:igdtName ref="">Harissa</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>6</fr:igdtQuantity>
-                <fr:igdtName ref="zwiebel">große Zwiebeln</fr:igdtName>
+                <fr:igdtName ref="">große Zwiebeln</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-                <fr:igdtName ref="sultaninen">Rosinen</fr:igdtName>
+                <fr:igdtName ref="">Rosinen</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -38,7 +38,7 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="zimt">Zimt</fr:igdtName>
+                <fr:igdtName ref="">Zimt</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

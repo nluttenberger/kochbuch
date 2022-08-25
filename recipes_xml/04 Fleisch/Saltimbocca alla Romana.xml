@@ -14,15 +14,15 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>600 g</fr:igdtQuantity>
-                <fr:igdtName ref="kalbfleisch">dünne Kalbsschnitzel</fr:igdtName>
+                <fr:igdtName ref="">dünne Kalbsschnitzel</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>3 – 4 Scheiben</fr:igdtQuantity>
-                <fr:igdtName ref="schinken">Parmaschinken</fr:igdtName>
+                <fr:igdtName ref="">Parmaschinken</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>6 – 8</fr:igdtQuantity>
-                <fr:igdtName ref="salbei">gr. Salbeiblätter</fr:igdtName>
+                <fr:igdtName ref="">gr. Salbeiblätter</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>60 g</fr:igdtQuantity>
@@ -30,7 +30,7 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>⅛ l</fr:igdtQuantity>
-                <fr:igdtName ref="wein">ital. Süßwein</fr:igdtName>
+                <fr:igdtName ref="">ital. Süßwein</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

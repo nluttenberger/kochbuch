@@ -19,7 +19,7 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>160 g</fr:igdtQuantity>
-                <fr:igdtName ref="brühe">Gemüsebrühe</fr:igdtName>
+                <fr:igdtName ref="">Gemüsebrühe</fr:igdtName>
             </fr:igdtListLine>
         </fr:igdtList>
     </fr:recipeIngredients>

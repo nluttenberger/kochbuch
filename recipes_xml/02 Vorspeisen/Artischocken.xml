@@ -14,11 +14,11 @@
             <fr:igdtListName>Artischocken</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>4</fr:igdtQuantity>
-                <fr:igdtName ref="artischocken">Artischocken</fr:igdtName>
+                <fr:igdtName ref="">Artischocken</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="essig">Essig</fr:igdtName>
+                <fr:igdtName ref="">Essig</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -29,35 +29,35 @@
             <fr:igdtListName>Dipp</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-                <fr:igdtName ref="mayonnaise">Miracel Whip</fr:igdtName>
+                <fr:igdtName ref="">Miracel Whip</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>6 EL</fr:igdtQuantity>
-                <fr:igdtName ref="joghurt">Joghurt 3,5% Fett</fr:igdtName>
+                <fr:igdtName ref="">Joghurt 3,5% Fett</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="ei">Eigelb</fr:igdtName>
+                <fr:igdtName ref="">Eigelb</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2</fr:igdtQuantity>
-                <fr:igdtName ref="knoblauch">Knoblauchzehen</fr:igdtName>
+                <fr:igdtName ref="">Knoblauchzehen</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
+                <fr:igdtName ref="">Zitronensaft</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="dill">Dill</fr:igdtName>
+                <fr:igdtName ref="">Dill</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="worcester">Worcestershire-Sauce</fr:igdtName>
+                <fr:igdtName ref="">Worcestershire-Sauce</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="sherry">Sherry</fr:igdtName>
+                <fr:igdtName ref="">Sherry</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

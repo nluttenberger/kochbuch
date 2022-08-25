@@ -16,19 +16,19 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="karotte">Karotten</fr:igdtName>
+                <fr:igdtName ref="">Karotten</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="knollensellerie">Knollensellerie</fr:igdtName>
+                <fr:igdtName ref="">Knollensellerie</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="lauch">Lauch</fr:igdtName>
+                <fr:igdtName ref="">Lauch</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="zwiebel">Zwiebeln</fr:igdtName>
+                <fr:igdtName ref="">Zwiebeln</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

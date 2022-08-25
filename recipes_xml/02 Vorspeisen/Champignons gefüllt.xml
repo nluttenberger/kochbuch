@@ -14,11 +14,11 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>8</fr:igdtQuantity>
-                <fr:igdtName ref="champignon">große Champignons</fr:igdtName>
+                <fr:igdtName ref="">große Champignons</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="zwiebel">Zwiebel</fr:igdtName>
+                <fr:igdtName ref="">Zwiebel</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -26,31 +26,31 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>200 g</fr:igdtQuantity>
-                <fr:igdtName ref="frischkäse">Frischkäse</fr:igdtName>
+                <fr:igdtName ref="">Frischkäse</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="basilikum">Basilikum</fr:igdtName>
+                <fr:igdtName ref="">Basilikum</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="oregano">Oregano</fr:igdtName>
+                <fr:igdtName ref="">Oregano</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="thymian">Thymian</fr:igdtName>
+                <fr:igdtName ref="">Thymian</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="schnittlauch">Schnittlauch</fr:igdtName>
+                <fr:igdtName ref="">Schnittlauch</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
+                <fr:igdtName ref="">Petersilie</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
+                <fr:igdtName ref="">Zitronensaft</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

@@ -15,18 +15,18 @@
             <fr:igdtListName>Teig</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="ei">[Strudelteig](recipes/01%20Grundrezepte/Strudelteig.html) von 300 g Mehl</fr:igdtName>
+                <fr:igdtName ref="">[Strudelteig](recipes/01%20Grundrezepte/Strudelteig.html) von 300 g Mehl</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-                <fr:igdtName ref="majoran">Majoran</fr:igdtName>
+                <fr:igdtName ref="">Majoran</fr:igdtName>
             </fr:igdtListLine>
         </fr:igdtList>
         <fr:igdtList>
             <fr:igdtListName>Füllung</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>10</fr:igdtQuantity>
-                <fr:igdtName ref="zwiebel">große Zwiebeln</fr:igdtName>
+                <fr:igdtName ref="">große Zwiebeln</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -34,23 +34,23 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-                <fr:igdtName ref="kümmel">Kümmel</fr:igdtName>
+                <fr:igdtName ref="">Kümmel</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-                <fr:igdtName ref="fenchelsamen">Fenchelsamen</fr:igdtName>
+                <fr:igdtName ref="">Fenchelsamen</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="kartoffel">gr. mehligkochende Kartoffel</fr:igdtName>
+                <fr:igdtName ref="">gr. mehligkochende Kartoffel</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>100 g</fr:igdtQuantity>
-                <fr:igdtName ref="frischkäse">Frischkäse</fr:igdtName>
+                <fr:igdtName ref="">Frischkäse</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="chili">Chiliflocken</fr:igdtName>
+                <fr:igdtName ref="">Chiliflocken</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -61,11 +61,11 @@
             <fr:igdtListName>zum Einpinseln</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="ei">Eigelb</fr:igdtName>
+                <fr:igdtName ref="">Eigelb</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-                <fr:igdtName ref="milch">Milch</fr:igdtName>
+                <fr:igdtName ref="">Milch</fr:igdtName>
             </fr:igdtListLine>
         </fr:igdtList>
     </fr:recipeIngredients>

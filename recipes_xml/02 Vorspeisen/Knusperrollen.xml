@@ -12,11 +12,11 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="brot">Yufka-Teig (Kreissegment)</fr:igdtName>
+                <fr:igdtName ref="">Yufka-Teig (Kreissegment)</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="butter">Butter</fr:igdtName>
+                <fr:igdtName ref="">Butter</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -24,38 +24,38 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="cumin">Kreuzkümmel</fr:igdtName>
+                <fr:igdtName ref="">Kreuzkümmel</fr:igdtName>
             </fr:igdtListLine>
         </fr:igdtList>
         <fr:igdtList>
             <fr:igdtListName>Auberginen-Fülle</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2</fr:igdtQuantity>
-                <fr:igdtName ref="auberginen">Auberginen</fr:igdtName>
+                <fr:igdtName ref="">Auberginen</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="zwiebel">Zwiebel</fr:igdtName>
+                <fr:igdtName ref="">Zwiebel</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="knoblauch">Knoblauchzehe</fr:igdtName>
+                <fr:igdtName ref="">Knoblauchzehe</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>3</fr:igdtQuantity>
-                <fr:igdtName ref="thymian">Thymianzweige</fr:igdtName>
+                <fr:igdtName ref="">Thymianzweige</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>100 g</fr:igdtQuantity>
-                <fr:igdtName ref="frischkäse">Ziegenfrischkäse</fr:igdtName>
+                <fr:igdtName ref="">Ziegenfrischkäse</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-                <fr:igdtName ref="sesam">Sesam</fr:igdtName>
+                <fr:igdtName ref="">Sesam</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="chili">Chili</fr:igdtName>
+                <fr:igdtName ref="">Chili</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -86,7 +86,7 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>150 g</fr:igdtQuantity>
-                <fr:igdtName ref="pistazie">Pistazien</fr:igdtName>
+                <fr:igdtName ref="">Pistazien</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

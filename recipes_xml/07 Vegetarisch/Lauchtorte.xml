@@ -21,7 +21,7 @@
             <fr:igdtListName>Lauchfüllung</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>4 - 5</fr:igdtQuantity>
-                <fr:igdtName ref="lauch">Lauchstangen</fr:igdtName>
+                <fr:igdtName ref="">Lauchstangen</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -29,11 +29,11 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="sojasauce">Sojasauce</fr:igdtName>
+                <fr:igdtName ref="">Sojasauce</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+                <fr:igdtName ref="">Muskat</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -44,31 +44,31 @@
             <fr:igdtListName>Deckel</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>125 g</fr:igdtQuantity>
-                <fr:igdtName ref="frischkäse">Kräuter-Philadelphia</fr:igdtName>
+                <fr:igdtName ref="">Kräuter-Philadelphia</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>200 g</fr:igdtQuantity>
-                <fr:igdtName ref="schmand">saure Sahne</fr:igdtName>
+                <fr:igdtName ref="">saure Sahne</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-                <fr:igdtName ref="joghurt">Joghurt 3,5% Fett</fr:igdtName>
+                <fr:igdtName ref="">Joghurt 3,5% Fett</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="ei">Ei</fr:igdtName>
+                <fr:igdtName ref="">Ei</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="worcester">Worcestershire-Sauce</fr:igdtName>
+                <fr:igdtName ref="">Worcestershire-Sauce</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="sherry">trockener Sherry</fr:igdtName>
+                <fr:igdtName ref="">trockener Sherry</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="knoblauch">Knoblauchzehe</fr:igdtName>
+                <fr:igdtName ref="">Knoblauchzehe</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

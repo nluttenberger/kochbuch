@@ -22,39 +22,39 @@
             <fr:igdtListName>Füllung</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>200 g</fr:igdtQuantity>
-                <fr:igdtName ref="räucherlachs">Räucherlachs in Scheiben</fr:igdtName>
+                <fr:igdtName ref="">Räucherlachs in Scheiben</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>300 g</fr:igdtQuantity>
-                <fr:igdtName ref="scampi">Garnelen</fr:igdtName>
+                <fr:igdtName ref="">Garnelen</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2</fr:igdtQuantity>
-                <fr:igdtName ref="zwiebel">Lauchzwiebeln</fr:igdtName>
+                <fr:igdtName ref="">Lauchzwiebeln</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>300 g</fr:igdtQuantity>
-                <fr:igdtName ref="frischkäse">Ziegenfrischkäse</fr:igdtName>
+                <fr:igdtName ref="">Ziegenfrischkäse</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="meerrettich">Meerrettich</fr:igdtName>
+                <fr:igdtName ref="">Meerrettich</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-                <fr:igdtName ref="sahne">Kochsahne</fr:igdtName>
+                <fr:igdtName ref="">Kochsahne</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>3</fr:igdtQuantity>
-                <fr:igdtName ref="ei">Eier</fr:igdtName>
+                <fr:igdtName ref="">Eier</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="dill">Dill</fr:igdtName>
+                <fr:igdtName ref="">Dill</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="chili">Chiliflocken</fr:igdtName>
+                <fr:igdtName ref="">Chiliflocken</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

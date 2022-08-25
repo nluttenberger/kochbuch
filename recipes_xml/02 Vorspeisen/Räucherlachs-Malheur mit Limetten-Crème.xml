@@ -10,23 +10,23 @@
             <fr:igdtListName>Räucherlachs-Malheur</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>200 g</fr:igdtQuantity>
-                <fr:igdtName ref="räucherlachs">Räucherlachs</fr:igdtName>
+                <fr:igdtName ref="">Räucherlachs</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2</fr:igdtQuantity>
-                <fr:igdtName ref="zwiebel">Lauchzwiebeln</fr:igdtName>
+                <fr:igdtName ref="">Lauchzwiebeln</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="knoblauch">Knoblauchzehe</fr:igdtName>
+                <fr:igdtName ref="">Knoblauchzehe</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="limette">Bio-Limette</fr:igdtName>
+                <fr:igdtName ref="">Bio-Limette</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-                <fr:igdtName ref="honig">Honig</fr:igdtName>
+                <fr:igdtName ref="">Honig</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -41,7 +41,7 @@
             <fr:igdtListName>Limetten-Crème</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>100 g</fr:igdtQuantity>
-                <fr:igdtName ref="schmand">Crème fraîche</fr:igdtName>
+                <fr:igdtName ref="">Crème fraîche</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -56,11 +56,11 @@
             <fr:igdtListName>Deko</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>4 TL</fr:igdtQuantity>
-                <fr:igdtName ref="kaviar">Kaviar</fr:igdtName>
+                <fr:igdtName ref="">Kaviar</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 Beet</fr:igdtQuantity>
-                <fr:igdtName ref="kresse">Gartenkresse</fr:igdtName>
+                <fr:igdtName ref="">Gartenkresse</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

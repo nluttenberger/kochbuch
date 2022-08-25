@@ -15,27 +15,27 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>250 g</fr:igdtQuantity>
-                <fr:igdtName ref="bulgur">Bulgur</fr:igdtName>
+                <fr:igdtName ref="">Bulgur</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2</fr:igdtQuantity>
-                <fr:igdtName ref="zwiebel">Zwiebeln</fr:igdtName>
+                <fr:igdtName ref="">Zwiebeln</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2</fr:igdtQuantity>
-                <fr:igdtName ref="knoblauch">Knoblauchzehen</fr:igdtName>
+                <fr:igdtName ref="">Knoblauchzehen</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>5</fr:igdtQuantity>
-                <fr:igdtName ref="karotte">Karotten</fr:igdtName>
+                <fr:igdtName ref="">Karotten</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>½</fr:igdtQuantity>
-                <fr:igdtName ref="knollensellerie">Knollensellerie</fr:igdtName>
+                <fr:igdtName ref="">Knollensellerie</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>3 Stangen</fr:igdtQuantity>
-                <fr:igdtName ref="staudensellerie">Staudensellerie</fr:igdtName>
+                <fr:igdtName ref="">Staudensellerie</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -43,19 +43,19 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>50 ml</fr:igdtQuantity>
-                <fr:igdtName ref="wein">Weißwein</fr:igdtName>
+                <fr:igdtName ref="">Weißwein</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>450 ml</fr:igdtQuantity>
-                <fr:igdtName ref="brühe">Gemüsebrühe</fr:igdtName>
+                <fr:igdtName ref="">Gemüsebrühe</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="chili">rote Chilischote</fr:igdtName>
+                <fr:igdtName ref="">rote Chilischote</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>250 g</fr:igdtQuantity>
-                <fr:igdtName ref="schafskäse">Schafskäse</fr:igdtName>
+                <fr:igdtName ref="">Schafskäse</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

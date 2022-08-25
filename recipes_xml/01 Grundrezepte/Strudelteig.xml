@@ -16,7 +16,7 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>150 g</fr:igdtQuantity>
-                <fr:igdtName ref="weizenmehl">Weizenmehl</fr:igdtName>
+                <fr:igdtName ref="">Weizenmehl</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

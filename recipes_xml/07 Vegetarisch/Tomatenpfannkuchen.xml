@@ -16,7 +16,7 @@
             <fr:igdtListName>Pfannkuchenteig</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>125 g</fr:igdtQuantity>
-                <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+                <fr:igdtName ref="">Mehl</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -24,11 +24,11 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-                <fr:igdtName ref="ducca">Ducca (s.o.)</fr:igdtName>
+                <fr:igdtName ref="">Ducca (s.o.)</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="chili">Chiliflocken</fr:igdtName>
+                <fr:igdtName ref="">Chiliflocken</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -36,18 +36,18 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-                <fr:igdtName ref="tomatensaft">Tomatensaft</fr:igdtName>
+                <fr:igdtName ref="">Tomatensaft</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2</fr:igdtQuantity>
-                <fr:igdtName ref="ei">Eier</fr:igdtName>
+                <fr:igdtName ref="">Eier</fr:igdtName>
             </fr:igdtListLine>
         </fr:igdtList>
         <fr:igdtList>
             <fr:igdtListName>Bulgur</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>40 g</fr:igdtQuantity>
-                <fr:igdtName ref="bulgur">**köftelik bulgur** (feiner Bulgur)</fr:igdtName>
+                <fr:igdtName ref="">**köftelik bulgur** (feiner Bulgur)</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -55,15 +55,15 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2</fr:igdtQuantity>
-                <fr:igdtName ref="datteln">Datteln</fr:igdtName>
+                <fr:igdtName ref="">Datteln</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 Spalte</fr:igdtQuantity>
-                <fr:igdtName ref="salzzitrone">Salzzitrone</fr:igdtName>
+                <fr:igdtName ref="">Salzzitrone</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>80 ml</fr:igdtQuantity>
-                <fr:igdtName ref="brühe">Gemüsefond</fr:igdtName>
+                <fr:igdtName ref="">Gemüsefond</fr:igdtName>
             </fr:igdtListLine>
         </fr:igdtList>
     </fr:recipeIngredients>

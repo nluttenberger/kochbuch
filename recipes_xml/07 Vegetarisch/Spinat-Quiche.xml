@@ -15,31 +15,31 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>8 Blätter</fr:igdtQuantity>
-                <fr:igdtName ref="blätterteig">TK-Blätterteig</fr:igdtName>
+                <fr:igdtName ref="">TK-Blätterteig</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>900 g</fr:igdtQuantity>
-                <fr:igdtName ref="spinat">TK-Blattspinat</fr:igdtName>
+                <fr:igdtName ref="">TK-Blattspinat</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>4</fr:igdtQuantity>
-                <fr:igdtName ref="ei">Eier</fr:igdtName>
+                <fr:igdtName ref="">Eier</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>60 g</fr:igdtQuantity>
-                <fr:igdtName ref="parmesan">Parmesan</fr:igdtName>
+                <fr:igdtName ref="">Parmesan</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>300 g</fr:igdtQuantity>
-                <fr:igdtName ref="schafskäse">Schafskäse</fr:igdtName>
+                <fr:igdtName ref="">Schafskäse</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2</fr:igdtQuantity>
-                <fr:igdtName ref="knoblauch">Knoblauchzehen</fr:igdtName>
+                <fr:igdtName ref="">Knoblauchzehen</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+                <fr:igdtName ref="">Muskat</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

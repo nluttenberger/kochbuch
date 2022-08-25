@@ -14,7 +14,7 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>3</fr:igdtQuantity>
-                <fr:igdtName ref="auberginen">Auberginen</fr:igdtName>
+                <fr:igdtName ref="">Auberginen</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

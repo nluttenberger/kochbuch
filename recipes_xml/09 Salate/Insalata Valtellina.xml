@@ -14,23 +14,23 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>6 – 8 Scheiben</fr:igdtQuantity>
-                <fr:igdtName ref="bresaola">Bresaola</fr:igdtName>
+                <fr:igdtName ref="">Bresaola</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>150 g</fr:igdtQuantity>
-                <fr:igdtName ref="rucola">Rauke</fr:igdtName>
+                <fr:igdtName ref="">Rauke</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="parmesan">Parmesan</fr:igdtName>
+                <fr:igdtName ref="">Parmesan</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="balsamico">Aceto Balsamico</fr:igdtName>
+                <fr:igdtName ref="">Aceto Balsamico</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+                <fr:igdtName ref="">Olivenöl</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

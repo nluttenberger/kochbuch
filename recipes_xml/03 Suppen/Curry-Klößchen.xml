@@ -14,31 +14,31 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>150 g</fr:igdtQuantity>
-                <fr:igdtName ref="hartweizengrieß">Vollkorngrieß</fr:igdtName>
+                <fr:igdtName ref="">Vollkorngrieß</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>¼ l</fr:igdtQuantity>
-                <fr:igdtName ref="milch">Milch</fr:igdtName>
+                <fr:igdtName ref="">Milch</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>30 g</fr:igdtQuantity>
-                <fr:igdtName ref="butter">Butter</fr:igdtName>
+                <fr:igdtName ref="">Butter</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="ei">Ei</fr:igdtName>
+                <fr:igdtName ref="">Ei</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-                <fr:igdtName ref="curry">Curry</fr:igdtName>
+                <fr:igdtName ref="">Curry</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 Msp.</fr:igdtQuantity>
-                <fr:igdtName ref="zimt">Zimt</fr:igdtName>
+                <fr:igdtName ref="">Zimt</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+                <fr:igdtName ref="">Muskat</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

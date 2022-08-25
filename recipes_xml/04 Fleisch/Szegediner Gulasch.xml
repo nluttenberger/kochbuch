@@ -14,47 +14,47 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>300 g</fr:igdtQuantity>
-                <fr:igdtName ref="schweinefleisch">Schweinegulasch</fr:igdtName>
+                <fr:igdtName ref="">Schweinegulasch</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>300 g</fr:igdtQuantity>
-                <fr:igdtName ref="rindfleisch">Rindergulasch</fr:igdtName>
+                <fr:igdtName ref="">Rindergulasch</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>400 g</fr:igdtQuantity>
-                <fr:igdtName ref="sauerkraut">Sauerkraut</fr:igdtName>
+                <fr:igdtName ref="">Sauerkraut</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="paprika">grüne Paprikaschote</fr:igdtName>
+                <fr:igdtName ref="">grüne Paprikaschote</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>6</fr:igdtQuantity>
-                <fr:igdtName ref="zwiebel">Zwiebeln</fr:igdtName>
+                <fr:igdtName ref="">Zwiebeln</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-                <fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName>
+                <fr:igdtName ref="">Tomatenmark</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="knoblauch">Knoblauchzehe</fr:igdtName>
+                <fr:igdtName ref="">Knoblauchzehe</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-                <fr:igdtName ref="paprikapulver">Paprikapulver edelsüß</fr:igdtName>
+                <fr:igdtName ref="">Paprikapulver edelsüß</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="kümmel">Kümmel</fr:igdtName>
+                <fr:igdtName ref="">Kümmel</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="wein">Rotwein zum Ablöschen</fr:igdtName>
+                <fr:igdtName ref="">Rotwein zum Ablöschen</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>3 – 4 EL</fr:igdtQuantity>
-                <fr:igdtName ref="schmand">saure Sahne</fr:igdtName>
+                <fr:igdtName ref="">saure Sahne</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

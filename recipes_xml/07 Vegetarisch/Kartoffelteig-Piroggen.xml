@@ -16,23 +16,23 @@
             <fr:igdtListName>Teig</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>500 g</fr:igdtQuantity>
-                <fr:igdtName ref="kartoffel">mehligkochende Kartoffeln (ohne Schale)</fr:igdtName>
+                <fr:igdtName ref="">mehligkochende Kartoffeln (ohne Schale)</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>140 g</fr:igdtQuantity>
-                <fr:igdtName ref="weizenmehl">Weizenmehl</fr:igdtName>
+                <fr:igdtName ref="">Weizenmehl</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>60 g</fr:igdtQuantity>
-                <fr:igdtName ref="hartweizengrieß">Semola (Hartweizengrieß)</fr:igdtName>
+                <fr:igdtName ref="">Semola (Hartweizengrieß)</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="ei">Ei</fr:igdtName>
+                <fr:igdtName ref="">Ei</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+                <fr:igdtName ref="">Muskat</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -40,42 +40,42 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>etwas</fr:igdtQuantity>
-                <fr:igdtName ref="ei">Semola für die Arbeitsplatte</fr:igdtName>
+                <fr:igdtName ref="">Semola für die Arbeitsplatte</fr:igdtName>
             </fr:igdtListLine>
         </fr:igdtList>
         <fr:igdtList>
             <fr:igdtListName>Füllung</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>2</fr:igdtQuantity>
-                <fr:igdtName ref="zwiebel">Zwiebeln</fr:igdtName>
+                <fr:igdtName ref="">Zwiebeln</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-                <fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName>
+                <fr:igdtName ref="">Tomatenmark</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>10</fr:igdtQuantity>
-                <fr:igdtName ref="tomate">getrocknete Tomaten</fr:igdtName>
+                <fr:igdtName ref="">getrocknete Tomaten</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>500 g</fr:igdtQuantity>
-                <fr:igdtName ref="sauerkraut">Sauerkraut</fr:igdtName>
+                <fr:igdtName ref="">Sauerkraut</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-                <fr:igdtName ref="kümmel">Kümmel</fr:igdtName>
+                <fr:igdtName ref="">Kümmel</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="kartoffel">mehligkochende Kartoffel</fr:igdtName>
+                <fr:igdtName ref="">mehligkochende Kartoffel</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>100 g</fr:igdtQuantity>
-                <fr:igdtName ref="frischkäse">Frischkäse</fr:igdtName>
+                <fr:igdtName ref="">Frischkäse</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="chili">Chiliflocken</fr:igdtName>
+                <fr:igdtName ref="">Chiliflocken</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -86,11 +86,11 @@
             <fr:igdtListName>zum Einpinseln</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1</fr:igdtQuantity>
-                <fr:igdtName ref="ei">Eigelb</fr:igdtName>
+                <fr:igdtName ref="">Eigelb</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-                <fr:igdtName ref="milch">Milch</fr:igdtName>
+                <fr:igdtName ref="">Milch</fr:igdtName>
             </fr:igdtListLine>
         </fr:igdtList>
     </fr:recipeIngredients>

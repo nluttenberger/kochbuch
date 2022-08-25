@@ -15,39 +15,39 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>4</fr:igdtQuantity>
-                <fr:igdtName ref="zucchini">Zucchini</fr:igdtName>
+                <fr:igdtName ref="">Zucchini</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>4 Scheiben</fr:igdtQuantity>
-                <fr:igdtName ref="brot">Toastbrot</fr:igdtName>
+                <fr:igdtName ref="">Toastbrot</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>100 g</fr:igdtQuantity>
-                <fr:igdtName ref="kürbiskern">Kürbiskerne</fr:igdtName>
+                <fr:igdtName ref="">Kürbiskerne</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>4</fr:igdtQuantity>
-                <fr:igdtName ref="ei">Eier</fr:igdtName>
+                <fr:igdtName ref="">Eier</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="dill">Dill</fr:igdtName>
+                <fr:igdtName ref="">Dill</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="basilikum">Basilikum getrocknet</fr:igdtName>
+                <fr:igdtName ref="">Basilikum getrocknet</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="thymian">Thymian</fr:igdtName>
+                <fr:igdtName ref="">Thymian</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="oregano">Oregano</fr:igdtName>
+                <fr:igdtName ref="">Oregano</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="salbei">Salbei</fr:igdtName>
+                <fr:igdtName ref="">Salbei</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>

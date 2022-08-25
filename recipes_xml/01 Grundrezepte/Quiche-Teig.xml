@@ -14,7 +14,7 @@
             <fr:igdtListName/>
             <fr:igdtListLine>
                 <fr:igdtQuantity>200 g</fr:igdtQuantity>
-                <fr:igdtName ref="weizenmehl">Weizenmehl 1050</fr:igdtName>
+                <fr:igdtName ref="">Weizenmehl 1050</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
@@ -22,7 +22,7 @@
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity/>
-                <fr:igdtName ref="brotgewürz">Brotgewürze</fr:igdtName>
+                <fr:igdtName ref="">Brotgewürze</fr:igdtName>
             </fr:igdtListLine>
             <fr:igdtListLine>
                 <fr:igdtQuantity>120 ml</fr:igdtQuantity>
