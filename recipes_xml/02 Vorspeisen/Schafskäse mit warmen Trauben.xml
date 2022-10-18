@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="fr-74420a74-b758-4385-bc20-2457f577f9dc">
+<fr:meta><fr:book>kochbuch</fr:book><fr:chapter>02 Vorspeisen</fr:chapter></fr:meta><fr:recipeName>Schafskäse mit warmen Trauben</fr:recipeName><fr:recipeKeywords/><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName/><fr:igdtListLine><fr:igdtQuantity/><fr:igdtName ref=""/></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName/><fr:instrStepText/></fr:instruction></fr:recipeInstructions><fr:recipeSideDish/><fr:recipeOrigin/><fr:recipeSeeAlso/><fr:recipeLicense/></fr:recipe>
