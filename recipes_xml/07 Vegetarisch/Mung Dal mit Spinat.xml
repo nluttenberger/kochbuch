@@ -1,3 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="fr-2b5266a1-8f7f-4494-9359-049ea64f7a7b">
-<fr:meta><fr:book>kochbuch</fr:book><fr:chapter>07 Vegetarisch</fr:chapter></fr:meta><fr:recipeName>Mung Dal mit Spinat</fr:recipeName><fr:recipeKeywords>Mungbohnen,Spinat,Kokosmilch</fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName></fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>200 g</fr:igdtQuantity><fr:igdtName ref="">Mungbohnen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>300 g</fr:igdtQuantity><fr:igdtName ref="">Blattspinat</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2</fr:igdtQuantity><fr:igdtName ref="">Zwiebeln</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2 Zehen</fr:igdtQuantity><fr:igdtName ref="">Knoblauch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>3 cm</fr:igdtQuantity><fr:igdtName ref="">Ingwer</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 kl. Dose</fr:igdtQuantity><fr:igdtName ref="">geschälte Tomaten</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 kl. Dose</fr:igdtQuantity><fr:igdtName ref="">Kokosmilch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>4 EL</fr:igdtQuantity><fr:igdtName ref="">Öl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 EL</fr:igdtQuantity><fr:igdtName ref="">Curry</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 TL</fr:igdtQuantity><fr:igdtName ref="">Cumin</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>3 EL</fr:igdtQuantity><fr:igdtName ref="">Gemüsebrühe-Pulver</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Chiliflocken</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 EL</fr:igdtQuantity><fr:igdtName ref="">Limettensaft</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz und Pfeffer</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Mungbohnen</fr:instrStepName><fr:instrStepText>Mungbohnen in eine Schüssel geben, mit reichlich kaltem Wasser bedecken und über Nacht
-einweichen lassen.</fr:instrStepText><fr:instrStepText>Am nächsten Tag: Die Mungbohnen in ca. 3 l kaltes Wasser geben. Kein Salz! Zum Kochen bringen und dann bei kleiner Hitze für ca. 30 min kochen. Die gekochten Mungbohnen in ein Sieb abgießen und kurz unter fließendem kalten Wasser abspülen. Die Bohnen abtropfen lassen und  beiseite stellen.</fr:instrStepText></fr:instruction><fr:instruction><fr:instrStepName>Zubereitung</fr:instrStepName><fr:instrStepText>Den Spinat waschen und gut trockenschleudern. Die Zwiebeln schälen und fein würfeln. Die Knoblauchzehen und den Ingwer schälen und grob hacken. Zusammen in einem Blitzhacker hacken. </fr:instrStepText><fr:instrStepText>Das Öl in einem Topf erhitzen. Die Zwiebelwürfel zufügen und anbraten. Das Ingwer-Knoblauch-Gemisch hinzugeben und kurz mitbraten. Nun Currypulver und Cumin für ca. 1 min mit anbraten. Den Spinat hinzugeben und zusammenfallen lassen. Alles ca. 5 min köcheln lassen.</fr:instrStepText><fr:instrStepText>Die geschälten Tomaten grob hacken und in den Topf geben. Ebenso die Kokosmilch. Mit Gemüsebrühe-Pulver, Chili und Limette würzen. Die gekochten, abgetropften Mungbohnen zufügen und alles ca. 5 min weiter köcheln lassen. Mit Salz und Pfeffer abschmecken. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="fr-2b5266a1-8f7f-4494-9359-049ea64f7a7b">
+  <ns0:meta>
+    <ns0:book>kochbuch</ns0:book>
+    <ns0:chapter>07 Vegetarisch</ns0:chapter>
+  </ns0:meta>
+  <ns0:recipeName>Mung Dal mit Spinat</ns0:recipeName>
+  <ns0:recipeKeywords>Mungbohnen,Spinat,Kokosmilch</ns0:recipeKeywords>
+  <ns0:recipeIntro/>
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName/>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>200 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="mungbohnen">Mungbohnen</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>300 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="spinat">Blattspinat</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebeln</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Zehen</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 cm</ns0:igdtQuantity>
+        <ns0:igdtName ref="ingwer">Ingwer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kl. Dose</ns0:igdtQuantity>
+        <ns0:igdtName ref="tomate">gesch&#228;lte Tomaten</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kl. Dose</ns0:igdtQuantity>
+        <ns0:igdtName ref="kokosmilch">Kokosmilch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">&#214;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="curry">Curry</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="cumin">Cumin</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he-Pulver</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity/>
+        <ns0:igdtName ref="chiliflocken">Chiliflocken</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="limette">Limettensaft</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity/>
+        <ns0:igdtName ref="pfeffer">Salz, Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName>Mungbohnen</ns0:instrStepName>
+      <ns0:instrStepText>Mungbohnen in eine Sch&#252;ssel geben, mit reichlich kaltem Wasser bedecken und &#252;ber Nacht
+einweichen lassen.</ns0:instrStepText>
+      <ns0:instrStepText>Am n&#228;chsten Tag: Die Mungbohnen in ca. 3 l kaltes Wasser geben. Kein Salz! Zum Kochen bringen und dann bei kleiner Hitze f&#252;r ca. 30 min kochen. Die gekochten Mungbohnen in ein Sieb abgie&#223;en und kurz unter flie&#223;endem kalten Wasser absp&#252;len. Die Bohnen abtropfen lassen und  beiseite stellen.</ns0:instrStepText>
+    </ns0:instruction>
+    <ns0:instruction>
+      <ns0:instrStepName>Zubereitung</ns0:instrStepName>
+      <ns0:instrStepText>Den Spinat waschen und gut trockenschleudern. Die Zwiebeln sch&#228;len und fein w&#252;rfeln. Die Knoblauchzehen und den Ingwer sch&#228;len und grob hacken. Zusammen in einem Blitzhacker hacken. </ns0:instrStepText>
+      <ns0:instrStepText>Das &#214;l in einem Topf erhitzen. Die Zwiebelw&#252;rfel zuf&#252;gen und anbraten. Das Ingwer-Knoblauch-Gemisch hinzugeben und kurz mitbraten. Nun Currypulver und Cumin f&#252;r ca. 1 min mit anbraten. Den Spinat hinzugeben und zusammenfallen lassen. Alles ca. 5 min k&#246;cheln lassen.</ns0:instrStepText>
+      <ns0:instrStepText>Die gesch&#228;lten Tomaten grob hacken und in den Topf geben. Ebenso die Kokosmilch. Mit Gem&#252;sebr&#252;he-Pulver, Chili und Limette w&#252;rzen. Die gekochten, abgetropften Mungbohnen zuf&#252;gen und alles ca. 5 min weiter k&#246;cheln lassen. Mit Salz und Pfeffer abschmecken. </ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish/>
+  <ns0:recipeOrigin/>
+  <ns0:recipeSeeAlso/>
+  <ns0:recipeLicense/>
+</ns0:recipe>
