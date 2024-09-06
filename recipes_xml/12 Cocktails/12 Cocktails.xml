@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd">
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-c262fdcf-c6dc-4a77-8913-f4d54cb3d204" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-c262fdcf-c6dc-4a77-8913-f4d54cb3d204" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" prefix="fr12">
    <fr:meta>
       <fr:book>kochbuch</fr:book>
       <fr:chapter>12 Cocktails</fr:chapter>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///c:/users/nlutt/documents/Websites/tools/entities.dtd">
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-498a11f0-f639-47b8-9de1-27acfdcf8ec6" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" rcpID="fr-498a11f0-f639-47b8-9de1-27acfdcf8ec6" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" prefix="fr10">
    <fr:meta>
       <fr:book>kochbuch</fr:book>
       <fr:chapter>10 Crèmes und Saucen</fr:chapter>
