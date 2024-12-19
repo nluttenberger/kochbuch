@@ -1,1 +1,23 @@
-<fr:igdtList xmlns:fr="http://fruschtique.de/ns/recipe" noshow="noshow" fromRecipe="Strudelteig" fromRcpID="fr-c5738c23-5413-4e13-a249-50b3c8ee4dfe" fromBook="kochbuch" fromChapter="01 Grundrezepte"><fr:igdtListName>Strudelteig</fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>150 g</fr:igdtQuantity><fr:igdtName ref="weizenmehl">Weizenmehl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 EL</fr:igdtQuantity><fr:igdtName ref="öl">Öl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>90 ml</fr:igdtQuantity><fr:igdtName ref="">Wasser</fr:igdtName></fr:igdtListLine></fr:igdtList>
+<fr:igdtList xmlns:fr="http://fruschtique.de/ns/recipe" noshow="noshow" fromRecipe="Strudelteig" fromRcpID="fr-c5738c23-5413-4e13-a249-50b3c8ee4dfe" fromBook="kochbuch" fromChapter="01 Grundrezepte">
+    <fr:igdtListName>Strudelteig</fr:igdtListName>
+    <fr:igdtListLine>
+        <fr:igdtQuantity>250 g</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Weizenmehl</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="öl">Öl</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity>90 ml</fr:igdtQuantity>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
+    </fr:igdtListLine>
+    <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="">Salz</fr:igdtName>
+    </fr:igdtListLine>
+</fr:igdtList>
